@@ -1012,7 +1012,7 @@
         },
         {
             "level_0": "2015",
-            "k": "\"portalegrense\"",
+            "k": "portalegrense",
             "n_ec": 78.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o \"Portalegrense\"",
             "t_scheduled": 207.0,
@@ -4196,7 +4196,7 @@
         },
         {
             "level_0": "2015",
-            "k": "\"a_ideal_de_ovar\"",
+            "k": "a_ideal_de_ovar",
             "n_ec": 415.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o \"A Ideal De Ovar\"",
             "t_scheduled": 97.0,
@@ -4756,7 +4756,7 @@
         },
         {
             "level_0": "2015",
-            "k": "\"_vanessa_\"",
+            "k": "_vanessa_",
             "n_ec": 452.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o \" Vanessa \"",
             "t_scheduled": 231.0,
@@ -18612,7 +18612,7 @@
         },
         {
             "level_0": "2016",
-            "k": "\"portalegrense\"",
+            "k": "portalegrense",
             "n_ec": 78.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o \"Portalegrense\"",
             "t_scheduled": 197.0,
@@ -21716,7 +21716,7 @@
         },
         {
             "level_0": "2016",
-            "k": "\"a_ideal_de_ovar\"",
+            "k": "a_ideal_de_ovar",
             "n_ec": 415.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o \"A Ideal De Ovar\"",
             "t_scheduled": 130.0,
@@ -22244,7 +22244,7 @@
         },
         {
             "level_0": "2016",
-            "k": "\"_vanessa_\"",
+            "k": "_vanessa_",
             "n_ec": 452.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o \" Vanessa \"",
             "t_scheduled": 183.0,
@@ -36452,7 +36452,7 @@
         },
         {
             "level_0": "2017",
-            "k": "\"portalegrense\"",
+            "k": "portalegrense",
             "n_ec": 78.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o \"Portalegrense\"",
             "t_scheduled": 186.0,
@@ -39492,7 +39492,7 @@
         },
         {
             "level_0": "2017",
-            "k": "\"a_ideal_de_ovar\"",
+            "k": "a_ideal_de_ovar",
             "n_ec": 415.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o \"A Ideal De Ovar\"",
             "t_scheduled": 130.0,
@@ -40020,7 +40020,7 @@
         },
         {
             "level_0": "2017",
-            "k": "\"_vanessa_\"",
+            "k": "_vanessa_",
             "n_ec": 452.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o \" Vanessa \"",
             "t_scheduled": 242.0,
@@ -54580,7 +54580,7 @@
         },
         {
             "level_0": "2018",
-            "k": "\"portalegrense\"",
+            "k": "portalegrense",
             "n_ec": 78.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o \"Portalegrense\"",
             "t_scheduled": 201.0,
@@ -57572,7 +57572,7 @@
         },
         {
             "level_0": "2018",
-            "k": "\"a_ideal_de_ovar\"",
+            "k": "a_ideal_de_ovar",
             "n_ec": 415.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o \"A Ideal De Ovar\"",
             "t_scheduled": 100.0,
@@ -58084,7 +58084,7 @@
         },
         {
             "level_0": "2018",
-            "k": "\"_vanessa_\"",
+            "k": "_vanessa_",
             "n_ec": 452.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o \" Vanessa \"",
             "t_scheduled": 196.0,
@@ -65717,7 +65717,7 @@
         {
             "level_0": "2018",
             "k": "auto_formadora",
-            "n_ec": 1.0,
+            "n_ec": 1001.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Auto Formadora",
             "t_scheduled": 146.0,
             "t_done": 143.0,
@@ -65733,7 +65733,7 @@
         {
             "level_0": "2018",
             "k": "merces,_serra_das_minas",
-            "n_ec": 3.0,
+            "n_ec": 1003.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Merc\u00eas, Serra Das Minas",
             "t_scheduled": 234.0,
             "t_done": 225.0,
@@ -65749,7 +65749,7 @@
         {
             "level_0": "2018",
             "k": "lidador",
-            "n_ec": 4.0,
+            "n_ec": 1004.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Lidador",
             "t_scheduled": 183.0,
             "t_done": 173.0,
@@ -65765,7 +65765,7 @@
         {
             "level_0": "2018",
             "k": "gilao",
-            "n_ec": 5.0,
+            "n_ec": 1005.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Gil\u00e3o",
             "t_scheduled": 131.0,
             "t_done": 126.0,
@@ -65781,7 +65781,7 @@
         {
             "level_0": "2018",
             "k": "carlos_vaz",
-            "n_ec": 7.0,
+            "n_ec": 1007.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Carlos Vaz",
             "t_scheduled": 59.0,
             "t_done": 58.0,
@@ -65797,7 +65797,7 @@
         {
             "level_0": "2018",
             "k": "dom_pedro",
-            "n_ec": 8.0,
+            "n_ec": 1008.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Dom Pedro",
             "t_scheduled": 114.0,
             "t_done": 109.0,
@@ -65813,7 +65813,7 @@
         {
             "level_0": "2018",
             "k": "do_algoz",
-            "n_ec": 9.0,
+            "n_ec": 1009.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Do Algoz",
             "t_scheduled": 119.0,
             "t_done": 117.0,
@@ -65829,7 +65829,7 @@
         {
             "level_0": "2018",
             "k": "rio_vizela",
-            "n_ec": 11.0,
+            "n_ec": 1011.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Rio Vizela",
             "t_scheduled": 81.0,
             "t_done": 80.0,
@@ -65845,7 +65845,7 @@
         {
             "level_0": "2018",
             "k": "bagagem",
-            "n_ec": 12.0,
+            "n_ec": 1012.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Bagagem",
             "t_scheduled": 168.0,
             "t_done": 161.0,
@@ -65861,7 +65861,7 @@
         {
             "level_0": "2018",
             "k": "corroios_pmr",
-            "n_ec": 13.0,
+            "n_ec": 1013.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Corroios Pmr",
             "t_scheduled": 417.0,
             "t_done": 405.0,
@@ -65877,7 +65877,7 @@
         {
             "level_0": "2018",
             "k": "rota_da_estrela",
-            "n_ec": 14.0,
+            "n_ec": 1014.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Rota Da Estrela",
             "t_scheduled": 37.0,
             "t_done": 33.0,
@@ -65893,7 +65893,7 @@
         {
             "level_0": "2018",
             "k": "faial",
-            "n_ec": 15.0,
+            "n_ec": 1015.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Faial",
             "t_scheduled": 96.0,
             "t_done": 94.0,
@@ -65909,7 +65909,7 @@
         {
             "level_0": "2018",
             "k": "moleiro,_amaro_e_oliveira",
-            "n_ec": 17.0,
+            "n_ec": 1017.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Moleiro, Amaro E Oliveira",
             "t_scheduled": 5.0,
             "t_done": 5.0,
@@ -65925,7 +65925,7 @@
         {
             "level_0": "2018",
             "k": "lanheses",
-            "n_ec": 18.0,
+            "n_ec": 1018.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Lanheses",
             "t_scheduled": 74.0,
             "t_done": 73.0,
@@ -65941,7 +65941,7 @@
         {
             "level_0": "2018",
             "k": "de_tires",
-            "n_ec": 20.0,
+            "n_ec": 1020.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Tires",
             "t_scheduled": 197.0,
             "t_done": 195.0,
@@ -65957,7 +65957,7 @@
         {
             "level_0": "2018",
             "k": "prisma",
-            "n_ec": 21.0,
+            "n_ec": 1021.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Prisma",
             "t_scheduled": 132.0,
             "t_done": 130.0,
@@ -65973,7 +65973,7 @@
         {
             "level_0": "2018",
             "k": "penedonense",
-            "n_ec": 22.0,
+            "n_ec": 1022.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Penedonense",
             "t_scheduled": 56.0,
             "t_done": 55.0,
@@ -65989,7 +65989,7 @@
         {
             "level_0": "2018",
             "k": "novo_rumo",
-            "n_ec": 23.0,
+            "n_ec": 1023.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Novo Rumo",
             "t_scheduled": 123.0,
             "t_done": 120.0,
@@ -66005,7 +66005,7 @@
         {
             "level_0": "2018",
             "k": "go_driving",
-            "n_ec": 24.0,
+            "n_ec": 1024.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Go Driving",
             "t_scheduled": 91.0,
             "t_done": 91.0,
@@ -66021,7 +66021,7 @@
         {
             "level_0": "2018",
             "k": "romana",
-            "n_ec": 25.0,
+            "n_ec": 1025.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Romana",
             "t_scheduled": 52.0,
             "t_done": 49.0,
@@ -66037,7 +66037,7 @@
         {
             "level_0": "2018",
             "k": "estrela_do_arda",
-            "n_ec": 26.0,
+            "n_ec": 1026.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Estrela Do Arda",
             "t_scheduled": 89.0,
             "t_done": 88.0,
@@ -66053,7 +66053,7 @@
         {
             "level_0": "2018",
             "k": "via_net",
-            "n_ec": 27.0,
+            "n_ec": 1027.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Via Net",
             "t_scheduled": 355.0,
             "t_done": 348.0,
@@ -66069,7 +66069,7 @@
         {
             "level_0": "2018",
             "k": "ases_da_estrada",
-            "n_ec": 28.0,
+            "n_ec": 1028.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Ases Da Estrada",
             "t_scheduled": 172.0,
             "t_done": 167.0,
@@ -66085,7 +66085,7 @@
         {
             "level_0": "2018",
             "k": "oia",
-            "n_ec": 29.0,
+            "n_ec": 1029.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Oi\u00e3",
             "t_scheduled": 80.0,
             "t_done": 78.0,
@@ -66101,7 +66101,7 @@
         {
             "level_0": "2018",
             "k": "tadim",
-            "n_ec": 30.0,
+            "n_ec": 1030.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Tadim",
             "t_scheduled": 225.0,
             "t_done": 213.0,
@@ -66117,7 +66117,7 @@
         {
             "level_0": "2018",
             "k": "os_loios",
-            "n_ec": 31.0,
+            "n_ec": 1031.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Os Loios",
             "t_scheduled": 65.0,
             "t_done": 65.0,
@@ -66133,7 +66133,7 @@
         {
             "level_0": "2018",
             "k": "fenix",
-            "n_ec": 32.0,
+            "n_ec": 1032.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Fenix",
             "t_scheduled": 149.0,
             "t_done": 145.0,
@@ -66149,7 +66149,7 @@
         {
             "level_0": "2018",
             "k": "portela",
-            "n_ec": 33.0,
+            "n_ec": 1033.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Portela",
             "t_scheduled": 892.0,
             "t_done": 866.0,
@@ -66165,7 +66165,7 @@
         {
             "level_0": "2018",
             "k": "s_bento",
-            "n_ec": 34.0,
+            "n_ec": 1034.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o S Bento",
             "t_scheduled": 115.0,
             "t_done": 114.0,
@@ -66181,7 +66181,7 @@
         {
             "level_0": "2018",
             "k": "aguia_de_aveiro",
-            "n_ec": 35.0,
+            "n_ec": 1035.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o \u00c1guia De Aveiro",
             "t_scheduled": 110.0,
             "t_done": 109.0,
@@ -66197,7 +66197,7 @@
         {
             "level_0": "2018",
             "k": "de_teixoso",
-            "n_ec": 36.0,
+            "n_ec": 1036.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Teixoso",
             "t_scheduled": 85.0,
             "t_done": 80.0,
@@ -66213,7 +66213,7 @@
         {
             "level_0": "2018",
             "k": "palma_cordeiro",
-            "n_ec": 37.0,
+            "n_ec": 1037.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Palma Cordeiro",
             "t_scheduled": 359.0,
             "t_done": 349.0,
@@ -66229,7 +66229,7 @@
         {
             "level_0": "2018",
             "k": "assuncao",
-            "n_ec": 38.0,
+            "n_ec": 1038.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Assun\u00e7\u00e3o",
             "t_scheduled": 198.0,
             "t_done": 195.0,
@@ -66245,7 +66245,7 @@
         {
             "level_0": "2018",
             "k": "a_nova",
-            "n_ec": 39.0,
+            "n_ec": 1039.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o A Nova",
             "t_scheduled": 97.0,
             "t_done": 95.0,
@@ -66261,7 +66261,7 @@
         {
             "level_0": "2018",
             "k": "impacto",
-            "n_ec": 40.0,
+            "n_ec": 1040.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Impacto",
             "t_scheduled": 81.0,
             "t_done": 79.0,
@@ -66277,7 +66277,7 @@
         {
             "level_0": "2018",
             "k": "almancilense",
-            "n_ec": 41.0,
+            "n_ec": 1041.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Almancilense",
             "t_scheduled": 20.0,
             "t_done": 20.0,
@@ -66293,7 +66293,7 @@
         {
             "level_0": "2018",
             "k": "almancil",
-            "n_ec": 42.0,
+            "n_ec": 1042.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Almancil",
             "t_scheduled": 248.0,
             "t_done": 235.0,
@@ -66309,7 +66309,7 @@
         {
             "level_0": "2018",
             "k": "s_jorge",
-            "n_ec": 43.0,
+            "n_ec": 1043.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o S Jorge",
             "t_scheduled": 91.0,
             "t_done": 88.0,
@@ -66325,7 +66325,7 @@
         {
             "level_0": "2018",
             "k": "espinho",
-            "n_ec": 45.0,
+            "n_ec": 1045.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Espinho",
             "t_scheduled": 315.0,
             "t_done": 308.0,
@@ -66341,7 +66341,7 @@
         {
             "level_0": "2018",
             "k": "santa_maria_arrifana",
-            "n_ec": 46.0,
+            "n_ec": 1046.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Santa Maria- Arrifana",
             "t_scheduled": 189.0,
             "t_done": 184.0,
@@ -66357,7 +66357,7 @@
         {
             "level_0": "2018",
             "k": "santa_marinhense",
-            "n_ec": 47.0,
+            "n_ec": 1047.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Santa Marinhense",
             "t_scheduled": 77.0,
             "t_done": 76.0,
@@ -66373,7 +66373,7 @@
         {
             "level_0": "2018",
             "k": "boavista_lamas",
-            "n_ec": 48.0,
+            "n_ec": 1048.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Boavista - Lamas",
             "t_scheduled": 190.0,
             "t_done": 186.0,
@@ -66389,7 +66389,7 @@
         {
             "level_0": "2018",
             "k": "castelo_da_maia",
-            "n_ec": 49.0,
+            "n_ec": 1049.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Cast\u00ealo Da Maia",
             "t_scheduled": 160.0,
             "t_done": 156.0,
@@ -66405,7 +66405,7 @@
         {
             "level_0": "2018",
             "k": "academia_do_volante",
-            "n_ec": 50.0,
+            "n_ec": 1050.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Academia Do Volante",
             "t_scheduled": 304.0,
             "t_done": 284.0,
@@ -66421,7 +66421,7 @@
         {
             "level_0": "2018",
             "k": "projecto_4",
-            "n_ec": 51.0,
+            "n_ec": 1051.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Projecto 4",
             "t_scheduled": 283.0,
             "t_done": 277.0,
@@ -66437,7 +66437,7 @@
         {
             "level_0": "2018",
             "k": "good",
-            "n_ec": 52.0,
+            "n_ec": 1052.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Good",
             "t_scheduled": 57.0,
             "t_done": 56.0,
@@ -66453,7 +66453,7 @@
         {
             "level_0": "2018",
             "k": "olho_azul",
-            "n_ec": 53.0,
+            "n_ec": 1053.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Olho Azul",
             "t_scheduled": 101.0,
             "t_done": 99.0,
@@ -66469,7 +66469,7 @@
         {
             "level_0": "2018",
             "k": "quinta_das_fontes",
-            "n_ec": 54.0,
+            "n_ec": 1054.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Quinta Das Fontes",
             "t_scheduled": 144.0,
             "t_done": 141.0,
@@ -66485,7 +66485,7 @@
         {
             "level_0": "2018",
             "k": "o_basto",
-            "n_ec": 55.0,
+            "n_ec": 1055.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o O Basto",
             "t_scheduled": 164.0,
             "t_done": 159.0,
@@ -66501,7 +66501,7 @@
         {
             "level_0": "2018",
             "k": "d_chama",
-            "n_ec": 57.0,
+            "n_ec": 1057.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o D Chama",
             "t_scheduled": 75.0,
             "t_done": 73.0,
@@ -66517,7 +66517,7 @@
         {
             "level_0": "2018",
             "k": "s_verissimo",
-            "n_ec": 58.0,
+            "n_ec": 1058.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o S Verissimo",
             "t_scheduled": 76.0,
             "t_done": 76.0,
@@ -66533,7 +66533,7 @@
         {
             "level_0": "2018",
             "k": "meiriformacao",
-            "n_ec": 59.0,
+            "n_ec": 1059.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Meiriforma\u00e7\u00e3o",
             "t_scheduled": 246.0,
             "t_done": 240.0,
@@ -66549,7 +66549,7 @@
         {
             "level_0": "2018",
             "k": "madalena_e_fonseca",
-            "n_ec": 60.0,
+            "n_ec": 1060.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Madalena E Fonseca",
             "t_scheduled": 189.0,
             "t_done": 183.0,
@@ -66565,7 +66565,7 @@
         {
             "level_0": "2018",
             "k": "via_maior",
-            "n_ec": 61.0,
+            "n_ec": 1061.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Via Maior",
             "t_scheduled": 124.0,
             "t_done": 120.0,
@@ -66581,7 +66581,7 @@
         {
             "level_0": "2018",
             "k": "bateira",
-            "n_ec": 62.0,
+            "n_ec": 1062.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Bateira",
             "t_scheduled": 58.0,
             "t_done": 56.0,
@@ -66597,7 +66597,7 @@
         {
             "level_0": "2018",
             "k": "julio_dinis",
-            "n_ec": 63.0,
+            "n_ec": 1063.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o J\u00falio Dinis",
             "t_scheduled": 136.0,
             "t_done": 130.0,
@@ -66613,7 +66613,7 @@
         {
             "level_0": "2018",
             "k": "oeste",
-            "n_ec": 64.0,
+            "n_ec": 1064.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Oeste",
             "t_scheduled": 145.0,
             "t_done": 143.0,
@@ -66629,7 +66629,7 @@
         {
             "level_0": "2018",
             "k": "s_tiago",
-            "n_ec": 67.0,
+            "n_ec": 1067.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o S Tiago",
             "t_scheduled": 147.0,
             "t_done": 139.0,
@@ -66645,7 +66645,7 @@
         {
             "level_0": "2018",
             "k": "visiense",
-            "n_ec": 68.0,
+            "n_ec": 1068.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Visiense",
             "t_scheduled": 128.0,
             "t_done": 122.0,
@@ -66661,7 +66661,7 @@
         {
             "level_0": "2018",
             "k": "zita",
-            "n_ec": 69.0,
+            "n_ec": 1069.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Zita",
             "t_scheduled": 198.0,
             "t_done": 194.0,
@@ -66677,7 +66677,7 @@
         {
             "level_0": "2018",
             "k": "s_joao",
-            "n_ec": 70.0,
+            "n_ec": 1070.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o S Jo\u00e3o",
             "t_scheduled": 123.0,
             "t_done": 116.0,
@@ -66693,7 +66693,7 @@
         {
             "level_0": "2018",
             "k": "britense",
-            "n_ec": 71.0,
+            "n_ec": 1071.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Britense",
             "t_scheduled": 157.0,
             "t_done": 153.0,
@@ -66709,7 +66709,7 @@
         {
             "level_0": "2018",
             "k": "euro_boavista",
-            "n_ec": 72.0,
+            "n_ec": 1072.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Euro Boavista",
             "t_scheduled": 234.0,
             "t_done": 233.0,
@@ -66725,7 +66725,7 @@
         {
             "level_0": "2018",
             "k": "baptista",
-            "n_ec": 73.0,
+            "n_ec": 1073.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Baptista",
             "t_scheduled": 173.0,
             "t_done": 168.0,
@@ -66741,7 +66741,7 @@
         {
             "level_0": "2018",
             "k": "estrada_segura",
-            "n_ec": 74.0,
+            "n_ec": 1074.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Estrada Segura",
             "t_scheduled": 124.0,
             "t_done": 122.0,
@@ -66757,7 +66757,7 @@
         {
             "level_0": "2018",
             "k": "auto_dao",
-            "n_ec": 75.0,
+            "n_ec": 1075.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Auto D\u00e3o",
             "t_scheduled": 85.0,
             "t_done": 80.0,
@@ -66773,7 +66773,7 @@
         {
             "level_0": "2018",
             "k": "via_unica",
-            "n_ec": 76.0,
+            "n_ec": 1076.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Via \u00danica",
             "t_scheduled": 146.0,
             "t_done": 145.0,
@@ -66789,7 +66789,7 @@
         {
             "level_0": "2018",
             "k": "ponto_de_partida",
-            "n_ec": 77.0,
+            "n_ec": 1077.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Ponto De Partida",
             "t_scheduled": 38.0,
             "t_done": 37.0,
@@ -66805,7 +66805,7 @@
         {
             "level_0": "2018",
             "k": "lusiada",
-            "n_ec": 78.0,
+            "n_ec": 1078.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Lus\u00edada",
             "t_scheduled": 166.0,
             "t_done": 164.0,
@@ -66821,7 +66821,7 @@
         {
             "level_0": "2018",
             "k": "prestige",
-            "n_ec": 79.0,
+            "n_ec": 1079.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Prestige",
             "t_scheduled": 33.0,
             "t_done": 30.0,
@@ -66837,7 +66837,7 @@
         {
             "level_0": "2018",
             "k": "marvila",
-            "n_ec": 80.0,
+            "n_ec": 1080.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Marvila",
             "t_scheduled": 239.0,
             "t_done": 217.0,
@@ -66853,7 +66853,7 @@
         {
             "level_0": "2018",
             "k": "boliqueime",
-            "n_ec": 81.0,
+            "n_ec": 1081.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Boliqueime",
             "t_scheduled": 65.0,
             "t_done": 60.0,
@@ -66869,7 +66869,7 @@
         {
             "level_0": "2018",
             "k": "estrela_de_albergaria_dos_doze",
-            "n_ec": 82.0,
+            "n_ec": 1082.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Estr\u00eala De Albergaria Dos Doze",
             "t_scheduled": 35.0,
             "t_done": 33.0,
@@ -66885,7 +66885,7 @@
         {
             "level_0": "2018",
             "k": "moncarapachense",
-            "n_ec": 83.0,
+            "n_ec": 1083.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Moncarapachense",
             "t_scheduled": 143.0,
             "t_done": 142.0,
@@ -66901,7 +66901,7 @@
         {
             "level_0": "2018",
             "k": "driver's_club",
-            "n_ec": 84.0,
+            "n_ec": 1084.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Driver'S Club",
             "t_scheduled": 136.0,
             "t_done": 132.0,
@@ -66917,7 +66917,7 @@
         {
             "level_0": "2018",
             "k": "s_domingos",
-            "n_ec": 85.0,
+            "n_ec": 1085.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o S Domingos",
             "t_scheduled": 102.0,
             "t_done": 95.0,
@@ -66933,7 +66933,7 @@
         {
             "level_0": "2018",
             "k": "lagoense",
-            "n_ec": 86.0,
+            "n_ec": 1086.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Lagoense",
             "t_scheduled": 153.0,
             "t_done": 149.0,
@@ -66949,7 +66949,7 @@
         {
             "level_0": "2018",
             "k": "via_s",
-            "n_ec": 87.0,
+            "n_ec": 1087.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Via S",
             "t_scheduled": 112.0,
             "t_done": 112.0,
@@ -66965,7 +66965,7 @@
         {
             "level_0": "2018",
             "k": "cercal_do_alentejo",
-            "n_ec": 88.0,
+            "n_ec": 1088.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Cercal Do Alentejo",
             "t_scheduled": 52.0,
             "t_done": 51.0,
@@ -66981,7 +66981,7 @@
         {
             "level_0": "2018",
             "k": "caxariense",
-            "n_ec": 89.0,
+            "n_ec": 1089.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Caxariense",
             "t_scheduled": 106.0,
             "t_done": 102.0,
@@ -66997,7 +66997,7 @@
         {
             "level_0": "2018",
             "k": "vilar_paraiso",
-            "n_ec": 92.0,
+            "n_ec": 1092.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Vilar Paraiso",
             "t_scheduled": 152.0,
             "t_done": 145.0,
@@ -67013,7 +67013,7 @@
         {
             "level_0": "2018",
             "k": "aguada_de_cima",
-            "n_ec": 93.0,
+            "n_ec": 1093.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Aguada De Cima",
             "t_scheduled": 76.0,
             "t_done": 75.0,
@@ -67029,7 +67029,7 @@
         {
             "level_0": "2018",
             "k": "nova_geracao",
-            "n_ec": 94.0,
+            "n_ec": 1094.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Nova Gera\u00e7\u00e3o",
             "t_scheduled": 63.0,
             "t_done": 62.0,
@@ -67045,7 +67045,7 @@
         {
             "level_0": "2018",
             "k": "volante_da_foz",
-            "n_ec": 95.0,
+            "n_ec": 1095.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Volante Da Foz",
             "t_scheduled": 58.0,
             "t_done": 57.0,
@@ -67061,7 +67061,7 @@
         {
             "level_0": "2018",
             "k": "abragonense",
-            "n_ec": 96.0,
+            "n_ec": 1096.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Abragonense",
             "t_scheduled": 112.0,
             "t_done": 105.0,
@@ -67077,7 +67077,7 @@
         {
             "level_0": "2018",
             "k": "de_canidelo",
-            "n_ec": 98.0,
+            "n_ec": 1098.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Canidelo",
             "t_scheduled": 171.0,
             "t_done": 160.0,
@@ -67093,7 +67093,7 @@
         {
             "level_0": "2018",
             "k": "sobradense",
-            "n_ec": 99.0,
+            "n_ec": 1099.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Sobradense",
             "t_scheduled": 81.0,
             "t_done": 78.0,
@@ -67109,7 +67109,7 @@
         {
             "level_0": "2018",
             "k": "praia_da_claridade",
-            "n_ec": 100.0,
+            "n_ec": 1100.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Praia Da Claridade",
             "t_scheduled": 133.0,
             "t_done": 131.0,
@@ -67125,7 +67125,7 @@
         {
             "level_0": "2018",
             "k": "sentido_unico",
-            "n_ec": 101.0,
+            "n_ec": 1101.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Sentido \u00danico",
             "t_scheduled": 56.0,
             "t_done": 55.0,
@@ -67141,7 +67141,7 @@
         {
             "level_0": "2018",
             "k": "valverde",
-            "n_ec": 102.0,
+            "n_ec": 1102.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Valverde",
             "t_scheduled": 318.0,
             "t_done": 312.0,
@@ -67157,7 +67157,7 @@
         {
             "level_0": "2018",
             "k": "carapecos",
-            "n_ec": 103.0,
+            "n_ec": 1103.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Carape\u00e7os",
             "t_scheduled": 118.0,
             "t_done": 116.0,
@@ -67173,7 +67173,7 @@
         {
             "level_0": "2018",
             "k": "bxb",
-            "n_ec": 104.0,
+            "n_ec": 1104.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Bxb",
             "t_scheduled": 444.0,
             "t_done": 424.0,
@@ -67189,7 +67189,7 @@
         {
             "level_0": "2018",
             "k": "seguranca_maxima_premium",
-            "n_ec": 105.0,
+            "n_ec": 1105.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Seguran\u00e7a M\u00e1xima Premium",
             "t_scheduled": 49.0,
             "t_done": 47.0,
@@ -67205,7 +67205,7 @@
         {
             "level_0": "2018",
             "k": "estadio",
-            "n_ec": 106.0,
+            "n_ec": 1106.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Est\u00e1dio",
             "t_scheduled": 205.0,
             "t_done": 195.0,
@@ -67221,7 +67221,7 @@
         {
             "level_0": "2018",
             "k": "carreira",
-            "n_ec": 108.0,
+            "n_ec": 1108.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Carreira",
             "t_scheduled": 301.0,
             "t_done": 292.0,
@@ -67237,7 +67237,7 @@
         {
             "level_0": "2018",
             "k": "estrada_real",
-            "n_ec": 109.0,
+            "n_ec": 1109.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Estrada Real",
             "t_scheduled": 188.0,
             "t_done": 185.0,
@@ -67253,7 +67253,7 @@
         {
             "level_0": "2018",
             "k": "palhaca",
-            "n_ec": 110.0,
+            "n_ec": 1110.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Palha\u00e7a",
             "t_scheduled": 31.0,
             "t_done": 30.0,
@@ -67269,7 +67269,7 @@
         {
             "level_0": "2018",
             "k": "via_arrabida",
-            "n_ec": 111.0,
+            "n_ec": 1111.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Via Arr\u00e1bida",
             "t_scheduled": 101.0,
             "t_done": 99.0,
@@ -67285,7 +67285,7 @@
         {
             "level_0": "2018",
             "k": "briosa",
-            "n_ec": 112.0,
+            "n_ec": 1112.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Briosa",
             "t_scheduled": 311.0,
             "t_done": 306.0,
@@ -67301,7 +67301,7 @@
         {
             "level_0": "2018",
             "k": "rota_do_sol_da_caranguejeira",
-            "n_ec": 114.0,
+            "n_ec": 1114.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Rota Do Sol Da Caranguejeira",
             "t_scheduled": 92.0,
             "t_done": 90.0,
@@ -67317,7 +67317,7 @@
         {
             "level_0": "2018",
             "k": "previsegur",
-            "n_ec": 115.0,
+            "n_ec": 1115.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Previsegur",
             "t_scheduled": 444.0,
             "t_done": 422.0,
@@ -67333,7 +67333,7 @@
         {
             "level_0": "2018",
             "k": "sentido_reversivel",
-            "n_ec": 117.0,
+            "n_ec": 1117.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Sentido Revers\u00edvel",
             "t_scheduled": 198.0,
             "t_done": 193.0,
@@ -67349,7 +67349,7 @@
         {
             "level_0": "2018",
             "k": "ideal_de_baltar",
-            "n_ec": 118.0,
+            "n_ec": 1118.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Ideal De Baltar",
             "t_scheduled": 537.0,
             "t_done": 506.0,
@@ -67365,7 +67365,7 @@
         {
             "level_0": "2018",
             "k": "irmaos_tavares",
-            "n_ec": 119.0,
+            "n_ec": 1119.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Irm\u00e3os Tavares",
             "t_scheduled": 149.0,
             "t_done": 147.0,
@@ -67381,7 +67381,7 @@
         {
             "level_0": "2018",
             "k": "traquina",
-            "n_ec": 120.0,
+            "n_ec": 1120.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Traquina",
             "t_scheduled": 92.0,
             "t_done": 92.0,
@@ -67397,7 +67397,7 @@
         {
             "level_0": "2018",
             "k": "vale_do_tamel",
-            "n_ec": 121.0,
+            "n_ec": 1121.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Vale Do Tamel",
             "t_scheduled": 120.0,
             "t_done": 120.0,
@@ -67413,7 +67413,7 @@
         {
             "level_0": "2018",
             "k": "costa_azul",
-            "n_ec": 122.0,
+            "n_ec": 1122.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Costa Azul",
             "t_scheduled": 235.0,
             "t_done": 221.0,
@@ -67429,7 +67429,7 @@
         {
             "level_0": "2018",
             "k": "arrifanense",
-            "n_ec": 123.0,
+            "n_ec": 1123.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Arrifanense",
             "t_scheduled": 96.0,
             "t_done": 93.0,
@@ -67445,7 +67445,7 @@
         {
             "level_0": "2018",
             "k": "lordelo",
-            "n_ec": 124.0,
+            "n_ec": 1124.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Lordelo",
             "t_scheduled": 113.0,
             "t_done": 112.0,
@@ -67461,7 +67461,7 @@
         {
             "level_0": "2018",
             "k": "rio_neiva",
-            "n_ec": 125.0,
+            "n_ec": 1125.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Rio Neiva",
             "t_scheduled": 132.0,
             "t_done": 131.0,
@@ -67477,7 +67477,7 @@
         {
             "level_0": "2018",
             "k": "nova_da_feira",
-            "n_ec": 126.0,
+            "n_ec": 1126.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Nova Da Feira",
             "t_scheduled": 197.0,
             "t_done": 195.0,
@@ -67493,7 +67493,7 @@
         {
             "level_0": "2018",
             "k": "sandinense",
-            "n_ec": 127.0,
+            "n_ec": 1127.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Sandinense",
             "t_scheduled": 134.0,
             "t_done": 134.0,
@@ -67509,7 +67509,7 @@
         {
             "level_0": "2018",
             "k": "vila_verde",
-            "n_ec": 128.0,
+            "n_ec": 1128.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Vila Verde",
             "t_scheduled": 168.0,
             "t_done": 163.0,
@@ -67525,7 +67525,7 @@
         {
             "level_0": "2018",
             "k": "rio_de_moinhos",
-            "n_ec": 129.0,
+            "n_ec": 1129.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Rio De Moinhos",
             "t_scheduled": 159.0,
             "t_done": 156.0,
@@ -67541,7 +67541,7 @@
         {
             "level_0": "2018",
             "k": "stop_real",
-            "n_ec": 130.0,
+            "n_ec": 1130.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Stop Real",
             "t_scheduled": 126.0,
             "t_done": 123.0,
@@ -67557,7 +67557,7 @@
         {
             "level_0": "2018",
             "k": "miraflores",
-            "n_ec": 131.0,
+            "n_ec": 1131.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Miraflores",
             "t_scheduled": 544.0,
             "t_done": 529.0,
@@ -67573,7 +67573,7 @@
         {
             "level_0": "2018",
             "k": "auto_azemeis",
-            "n_ec": 132.0,
+            "n_ec": 1132.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Auto Azemeis",
             "t_scheduled": 77.0,
             "t_done": 77.0,
@@ -67589,7 +67589,7 @@
         {
             "level_0": "2018",
             "k": "angeiras",
-            "n_ec": 133.0,
+            "n_ec": 1133.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Angeiras",
             "t_scheduled": 100.0,
             "t_done": 98.0,
@@ -67605,7 +67605,7 @@
         {
             "level_0": "2018",
             "k": "guerra",
-            "n_ec": 135.0,
+            "n_ec": 1135.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Guerra",
             "t_scheduled": 82.0,
             "t_done": 77.0,
@@ -67621,7 +67621,7 @@
         {
             "level_0": "2018",
             "k": "nova_de_vagos",
-            "n_ec": 136.0,
+            "n_ec": 1136.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Nova De Vagos",
             "t_scheduled": 62.0,
             "t_done": 62.0,
@@ -67637,7 +67637,7 @@
         {
             "level_0": "2018",
             "k": "guifoes",
-            "n_ec": 137.0,
+            "n_ec": 1137.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Guif\u00f5es",
             "t_scheduled": 122.0,
             "t_done": 119.0,
@@ -67653,7 +67653,7 @@
         {
             "level_0": "2018",
             "k": "instrusol",
-            "n_ec": 138.0,
+            "n_ec": 1138.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Instrusol",
             "t_scheduled": 99.0,
             "t_done": 97.0,
@@ -67669,7 +67669,7 @@
         {
             "level_0": "2018",
             "k": "a_soberana_de_portimao",
-            "n_ec": 140.0,
+            "n_ec": 1140.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o A Soberana De Portim\u00e3o",
             "t_scheduled": 169.0,
             "t_done": 158.0,
@@ -67685,7 +67685,7 @@
         {
             "level_0": "2018",
             "k": "odemirense",
-            "n_ec": 141.0,
+            "n_ec": 1141.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Odemirense",
             "t_scheduled": 82.0,
             "t_done": 80.0,
@@ -67701,7 +67701,7 @@
         {
             "level_0": "2018",
             "k": "a_mourinha_de_s_teotonio",
-            "n_ec": 142.0,
+            "n_ec": 1142.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o A Mourinha De S Teot\u00f3nio",
             "t_scheduled": 123.0,
             "t_done": 120.0,
@@ -67717,7 +67717,7 @@
         {
             "level_0": "2018",
             "k": "aveirense",
-            "n_ec": 143.0,
+            "n_ec": 1143.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Aveirense",
             "t_scheduled": 257.0,
             "t_done": 253.0,
@@ -67733,7 +67733,7 @@
         {
             "level_0": "2018",
             "k": "3_as",
-            "n_ec": 144.0,
+            "n_ec": 1144.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o 3 \u00c1s",
             "t_scheduled": 138.0,
             "t_done": 133.0,
@@ -67749,7 +67749,7 @@
         {
             "level_0": "2018",
             "k": "a_ideal_de_apulia",
-            "n_ec": 145.0,
+            "n_ec": 1145.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o A Ideal De Ap\u00falia",
             "t_scheduled": 166.0,
             "t_done": 152.0,
@@ -67765,7 +67765,7 @@
         {
             "level_0": "2018",
             "k": "paranhos",
-            "n_ec": 146.0,
+            "n_ec": 1146.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Paranhos",
             "t_scheduled": 208.0,
             "t_done": 201.0,
@@ -67781,7 +67781,7 @@
         {
             "level_0": "2018",
             "k": "nova_alcoa",
-            "n_ec": 147.0,
+            "n_ec": 1147.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Nova Alcoa",
             "t_scheduled": 115.0,
             "t_done": 112.0,
@@ -67797,7 +67797,7 @@
         {
             "level_0": "2018",
             "k": "auto_romariz",
-            "n_ec": 148.0,
+            "n_ec": 1148.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Auto - Romariz",
             "t_scheduled": 115.0,
             "t_done": 110.0,
@@ -67813,7 +67813,7 @@
         {
             "level_0": "2018",
             "k": "auto_carnaxide",
-            "n_ec": 149.0,
+            "n_ec": 1149.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Auto - Carnaxide",
             "t_scheduled": 247.0,
             "t_done": 234.0,
@@ -67829,7 +67829,7 @@
         {
             "level_0": "2018",
             "k": "global",
-            "n_ec": 150.0,
+            "n_ec": 1150.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Global",
             "t_scheduled": 335.0,
             "t_done": 325.0,
@@ -67845,7 +67845,7 @@
         {
             "level_0": "2018",
             "k": "vale_figueira",
-            "n_ec": 151.0,
+            "n_ec": 1151.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Vale Figueira",
             "t_scheduled": 163.0,
             "t_done": 155.0,
@@ -67861,7 +67861,7 @@
         {
             "level_0": "2018",
             "k": "5_quinas",
-            "n_ec": 152.0,
+            "n_ec": 1152.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o 5 Quinas",
             "t_scheduled": 123.0,
             "t_done": 121.0,
@@ -67877,7 +67877,7 @@
         {
             "level_0": "2018",
             "k": "jante_integral",
-            "n_ec": 153.0,
+            "n_ec": 1153.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Jante Integral",
             "t_scheduled": 344.0,
             "t_done": 305.0,
@@ -67893,7 +67893,7 @@
         {
             "level_0": "2018",
             "k": "ariz",
-            "n_ec": 154.0,
+            "n_ec": 1154.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Ariz",
             "t_scheduled": 114.0,
             "t_done": 113.0,
@@ -67909,7 +67909,7 @@
         {
             "level_0": "2018",
             "k": "miramaia_guardeiras",
-            "n_ec": 155.0,
+            "n_ec": 1155.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Miramaia - Guardeiras",
             "t_scheduled": 68.0,
             "t_done": 68.0,
@@ -67925,7 +67925,7 @@
         {
             "level_0": "2018",
             "k": "ferreira_&_honrado",
-            "n_ec": 156.0,
+            "n_ec": 1156.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Ferreira & Honrado",
             "t_scheduled": 125.0,
             "t_done": 119.0,
@@ -67941,7 +67941,7 @@
         {
             "level_0": "2018",
             "k": "instrucosta",
-            "n_ec": 157.0,
+            "n_ec": 1157.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Instrucosta",
             "t_scheduled": 140.0,
             "t_done": 138.0,
@@ -67957,7 +67957,7 @@
         {
             "level_0": "2018",
             "k": "fatimense",
-            "n_ec": 158.0,
+            "n_ec": 1158.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Fatimense",
             "t_scheduled": 53.0,
             "t_done": 53.0,
@@ -67973,7 +67973,7 @@
         {
             "level_0": "2018",
             "k": "vila_portel",
-            "n_ec": 159.0,
+            "n_ec": 1159.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Vila Portel",
             "t_scheduled": 49.0,
             "t_done": 49.0,
@@ -67989,7 +67989,7 @@
         {
             "level_0": "2018",
             "k": "cidade_florida",
-            "n_ec": 161.0,
+            "n_ec": 1161.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Cidade Florida",
             "t_scheduled": 148.0,
             "t_done": 144.0,
@@ -68005,7 +68005,7 @@
         {
             "level_0": "2018",
             "k": "do_juncal",
-            "n_ec": 162.0,
+            "n_ec": 1162.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Do Juncal",
             "t_scheduled": 68.0,
             "t_done": 68.0,
@@ -68021,7 +68021,7 @@
         {
             "level_0": "2018",
             "k": "riachense",
-            "n_ec": 163.0,
+            "n_ec": 1163.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Riachense",
             "t_scheduled": 88.0,
             "t_done": 82.0,
@@ -68037,7 +68037,7 @@
         {
             "level_0": "2018",
             "k": "freixieiro",
-            "n_ec": 164.0,
+            "n_ec": 1164.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Freixieiro",
             "t_scheduled": 55.0,
             "t_done": 54.0,
@@ -68053,7 +68053,7 @@
         {
             "level_0": "2018",
             "k": "rodovia",
-            "n_ec": 165.0,
+            "n_ec": 1165.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Rodovia",
             "t_scheduled": 169.0,
             "t_done": 169.0,
@@ -68069,7 +68069,7 @@
         {
             "level_0": "2018",
             "k": "venda_nova",
-            "n_ec": 166.0,
+            "n_ec": 1166.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Venda Nova",
             "t_scheduled": 155.0,
             "t_done": 149.0,
@@ -68085,7 +68085,7 @@
         {
             "level_0": "2018",
             "k": "de_livracao",
-            "n_ec": 167.0,
+            "n_ec": 1167.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Livra\u00e7\u00e3o",
             "t_scheduled": 67.0,
             "t_done": 66.0,
@@ -68101,7 +68101,7 @@
         {
             "level_0": "2018",
             "k": "canedo",
-            "n_ec": 168.0,
+            "n_ec": 1168.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Canedo",
             "t_scheduled": 107.0,
             "t_done": 105.0,
@@ -68117,7 +68117,7 @@
         {
             "level_0": "2018",
             "k": "boa_formacao",
-            "n_ec": 169.0,
+            "n_ec": 1169.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Boa Forma\u00e7\u00e3o",
             "t_scheduled": 195.0,
             "t_done": 195.0,
@@ -68133,7 +68133,7 @@
         {
             "level_0": "2018",
             "k": "esteves_da_vieira",
-            "n_ec": 170.0,
+            "n_ec": 1170.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Esteves Da Vieira",
             "t_scheduled": 112.0,
             "t_done": 108.0,
@@ -68149,7 +68149,7 @@
         {
             "level_0": "2018",
             "k": "macao",
-            "n_ec": 171.0,
+            "n_ec": 1171.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Ma\u00e7\u00e3o",
             "t_scheduled": 57.0,
             "t_done": 57.0,
@@ -68165,7 +68165,7 @@
         {
             "level_0": "2018",
             "k": "dois_volantes",
-            "n_ec": 172.0,
+            "n_ec": 1172.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Dois Volantes",
             "t_scheduled": 101.0,
             "t_done": 99.0,
@@ -68181,7 +68181,7 @@
         {
             "level_0": "2018",
             "k": "nova_via",
-            "n_ec": 173.0,
+            "n_ec": 1173.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Nova Via",
             "t_scheduled": 216.0,
             "t_done": 205.0,
@@ -68197,7 +68197,7 @@
         {
             "level_0": "2018",
             "k": "vila_lusitano",
-            "n_ec": 174.0,
+            "n_ec": 1174.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Vila Lusitano",
             "t_scheduled": 287.0,
             "t_done": 281.0,
@@ -68213,7 +68213,7 @@
         {
             "level_0": "2018",
             "k": "santa_eugenia",
-            "n_ec": 175.0,
+            "n_ec": 1175.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Santa Eug\u00e9nia",
             "t_scheduled": 65.0,
             "t_done": 63.0,
@@ -68229,7 +68229,7 @@
         {
             "level_0": "2018",
             "k": "golfinho",
-            "n_ec": 176.0,
+            "n_ec": 1176.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Golfinho",
             "t_scheduled": 253.0,
             "t_done": 243.0,
@@ -68245,7 +68245,7 @@
         {
             "level_0": "2018",
             "k": "s_vicente_de_alfena",
-            "n_ec": 177.0,
+            "n_ec": 1177.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o S Vicente De Alfena",
             "t_scheduled": 142.0,
             "t_done": 139.0,
@@ -68261,7 +68261,7 @@
         {
             "level_0": "2018",
             "k": "o_motorista",
-            "n_ec": 179.0,
+            "n_ec": 1179.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o O Motorista",
             "t_scheduled": 10.0,
             "t_done": 10.0,
@@ -68277,7 +68277,7 @@
         {
             "level_0": "2018",
             "k": "vila_de_oeiras",
-            "n_ec": 180.0,
+            "n_ec": 1180.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Vila De Oeiras",
             "t_scheduled": 296.0,
             "t_done": 285.0,
@@ -68293,7 +68293,7 @@
         {
             "level_0": "2018",
             "k": "ebenezer",
-            "n_ec": 181.0,
+            "n_ec": 1181.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Eben\u00e9zer",
             "t_scheduled": 74.0,
             "t_done": 71.0,
@@ -68309,7 +68309,7 @@
         {
             "level_0": "2018",
             "k": "rio_tinto",
-            "n_ec": 182.0,
+            "n_ec": 1182.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Rio Tinto",
             "t_scheduled": 120.0,
             "t_done": 119.0,
@@ -68325,7 +68325,7 @@
         {
             "level_0": "2018",
             "k": "das_fontes",
-            "n_ec": 183.0,
+            "n_ec": 1183.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Das Fontes",
             "t_scheduled": 192.0,
             "t_done": 190.0,
@@ -68341,7 +68341,7 @@
         {
             "level_0": "2018",
             "k": "viaensinauto",
-            "n_ec": 184.0,
+            "n_ec": 1184.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Viaensinauto",
             "t_scheduled": 118.0,
             "t_done": 118.0,
@@ -68357,7 +68357,7 @@
         {
             "level_0": "2018",
             "k": "todos_os_santos",
-            "n_ec": 185.0,
+            "n_ec": 1185.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Todos Os Santos",
             "t_scheduled": 56.0,
             "t_done": 54.0,
@@ -68373,7 +68373,7 @@
         {
             "level_0": "2018",
             "k": "rio_ave",
-            "n_ec": 186.0,
+            "n_ec": 1186.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Rio Ave",
             "t_scheduled": 172.0,
             "t_done": 168.0,
@@ -68389,7 +68389,7 @@
         {
             "level_0": "2018",
             "k": "chelas",
-            "n_ec": 187.0,
+            "n_ec": 1187.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Chelas",
             "t_scheduled": 578.0,
             "t_done": 560.0,
@@ -68405,7 +68405,7 @@
         {
             "level_0": "2018",
             "k": "tondeluir",
-            "n_ec": 188.0,
+            "n_ec": 1188.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Tondeluir",
             "t_scheduled": 78.0,
             "t_done": 68.0,
@@ -68421,7 +68421,7 @@
         {
             "level_0": "2018",
             "k": "freire",
-            "n_ec": 189.0,
+            "n_ec": 1189.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Freire",
             "t_scheduled": 165.0,
             "t_done": 163.0,
@@ -68437,7 +68437,7 @@
         {
             "level_0": "2018",
             "k": "ideal_de_rans",
-            "n_ec": 190.0,
+            "n_ec": 1190.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Ideal De Rans",
             "t_scheduled": 17.0,
             "t_done": 17.0,
@@ -68453,7 +68453,7 @@
         {
             "level_0": "2018",
             "k": "via_principal",
-            "n_ec": 191.0,
+            "n_ec": 1191.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Via Principal",
             "t_scheduled": 76.0,
             "t_done": 76.0,
@@ -68469,7 +68469,7 @@
         {
             "level_0": "2018",
             "k": "conduvallis",
-            "n_ec": 192.0,
+            "n_ec": 1192.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Conduvallis",
             "t_scheduled": 184.0,
             "t_done": 183.0,
@@ -68485,7 +68485,7 @@
         {
             "level_0": "2018",
             "k": "pinheiro_de_loures",
-            "n_ec": 193.0,
+            "n_ec": 1193.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Pinheiro De Loures",
             "t_scheduled": 162.0,
             "t_done": 157.0,
@@ -68501,7 +68501,7 @@
         {
             "level_0": "2018",
             "k": "aroes",
-            "n_ec": 194.0,
+            "n_ec": 1194.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Ar\u00f5es",
             "t_scheduled": 144.0,
             "t_done": 142.0,
@@ -68517,7 +68517,7 @@
         {
             "level_0": "2018",
             "k": "alves",
-            "n_ec": 195.0,
+            "n_ec": 1195.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Alves",
             "t_scheduled": 74.0,
             "t_done": 69.0,
@@ -68533,7 +68533,7 @@
         {
             "level_0": "2018",
             "k": "convida",
-            "n_ec": 196.0,
+            "n_ec": 1196.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Convida",
             "t_scheduled": 102.0,
             "t_done": 100.0,
@@ -68549,7 +68549,7 @@
         {
             "level_0": "2018",
             "k": "um",
-            "n_ec": 197.0,
+            "n_ec": 1197.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Um",
             "t_scheduled": 137.0,
             "t_done": 130.0,
@@ -68565,7 +68565,7 @@
         {
             "level_0": "2018",
             "k": "sinal_vertical",
-            "n_ec": 198.0,
+            "n_ec": 1198.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Sinal Vertical",
             "t_scheduled": 107.0,
             "t_done": 103.0,
@@ -68581,7 +68581,7 @@
         {
             "level_0": "2018",
             "k": "leziria",
-            "n_ec": 199.0,
+            "n_ec": 1199.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Lez\u00edria",
             "t_scheduled": 212.0,
             "t_done": 206.0,
@@ -68597,7 +68597,7 @@
         {
             "level_0": "2018",
             "k": "nova_atitude",
-            "n_ec": 200.0,
+            "n_ec": 1200.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Nova Atitude",
             "t_scheduled": 64.0,
             "t_done": 60.0,
@@ -68613,7 +68613,7 @@
         {
             "level_0": "2018",
             "k": "moncorvense",
-            "n_ec": 201.0,
+            "n_ec": 1201.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Moncorvense",
             "t_scheduled": 65.0,
             "t_done": 65.0,
@@ -68629,7 +68629,7 @@
         {
             "level_0": "2018",
             "k": "andrade_de_azeitao",
-            "n_ec": 202.0,
+            "n_ec": 1202.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Andrade De Azeit\u00e3o",
             "t_scheduled": 165.0,
             "t_done": 160.0,
@@ -68645,7 +68645,7 @@
         {
             "level_0": "2018",
             "k": "lagoncinha",
-            "n_ec": 203.0,
+            "n_ec": 1203.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Lagoncinha",
             "t_scheduled": 87.0,
             "t_done": 80.0,
@@ -68661,7 +68661,7 @@
         {
             "level_0": "2018",
             "k": "silvino_lopes",
-            "n_ec": 204.0,
+            "n_ec": 1204.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Silvino Lopes",
             "t_scheduled": 72.0,
             "t_done": 72.0,
@@ -68677,7 +68677,7 @@
         {
             "level_0": "2018",
             "k": "braguesa",
-            "n_ec": 205.0,
+            "n_ec": 1205.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Braguesa",
             "t_scheduled": 86.0,
             "t_done": 80.0,
@@ -68693,7 +68693,7 @@
         {
             "level_0": "2018",
             "k": "beatriz",
-            "n_ec": 207.0,
+            "n_ec": 1207.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Beatriz",
             "t_scheduled": 69.0,
             "t_done": 63.0,
@@ -68709,7 +68709,7 @@
         {
             "level_0": "2018",
             "k": "avelar",
-            "n_ec": 208.0,
+            "n_ec": 1208.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Avelar",
             "t_scheduled": 66.0,
             "t_done": 66.0,
@@ -68725,7 +68725,7 @@
         {
             "level_0": "2018",
             "k": "dalvor",
-            "n_ec": 209.0,
+            "n_ec": 1209.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Dalvor",
             "t_scheduled": 43.0,
             "t_done": 39.0,
@@ -68741,7 +68741,7 @@
         {
             "level_0": "2018",
             "k": "celeiros",
-            "n_ec": 210.0,
+            "n_ec": 1210.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Celeir\u00f3s",
             "t_scheduled": 133.0,
             "t_done": 126.0,
@@ -68757,7 +68757,7 @@
         {
             "level_0": "2018",
             "k": "berlenga",
-            "n_ec": 211.0,
+            "n_ec": 1211.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Berlenga",
             "t_scheduled": 146.0,
             "t_done": 146.0,
@@ -68773,7 +68773,7 @@
         {
             "level_0": "2018",
             "k": "cucujaes",
-            "n_ec": 212.0,
+            "n_ec": 1212.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Cucuj\u00e3es",
             "t_scheduled": 209.0,
             "t_done": 209.0,
@@ -68789,7 +68789,7 @@
         {
             "level_0": "2018",
             "k": "lazarim",
-            "n_ec": 213.0,
+            "n_ec": 1213.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Lazarim",
             "t_scheduled": 232.0,
             "t_done": 226.0,
@@ -68805,7 +68805,7 @@
         {
             "level_0": "2018",
             "k": "prodouro",
-            "n_ec": 214.0,
+            "n_ec": 1214.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Prodouro",
             "t_scheduled": 81.0,
             "t_done": 80.0,
@@ -68821,7 +68821,7 @@
         {
             "level_0": "2018",
             "k": "nova_asseiceira",
-            "n_ec": 215.0,
+            "n_ec": 1215.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Nova Asseiceira",
             "t_scheduled": 715.0,
             "t_done": 690.0,
@@ -68837,7 +68837,7 @@
         {
             "level_0": "2018",
             "k": "estrela_do_caima",
-            "n_ec": 216.0,
+            "n_ec": 1216.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Estrela Do Caima",
             "t_scheduled": 95.0,
             "t_done": 92.0,
@@ -68853,7 +68853,7 @@
         {
             "level_0": "2018",
             "k": "actual",
-            "n_ec": 218.0,
+            "n_ec": 1218.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Actual",
             "t_scheduled": 69.0,
             "t_done": 69.0,
@@ -68869,7 +68869,7 @@
         {
             "level_0": "2018",
             "k": "mare",
-            "n_ec": 219.0,
+            "n_ec": 1219.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Mar\u00e9",
             "t_scheduled": 254.0,
             "t_done": 246.0,
@@ -68885,7 +68885,7 @@
         {
             "level_0": "2018",
             "k": "lobos_do_mar",
-            "n_ec": 220.0,
+            "n_ec": 1220.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Lobos Do Mar",
             "t_scheduled": 47.0,
             "t_done": 47.0,
@@ -68901,7 +68901,7 @@
         {
             "level_0": "2018",
             "k": "poceirense",
-            "n_ec": 222.0,
+            "n_ec": 1222.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Poceirense",
             "t_scheduled": 144.0,
             "t_done": 139.0,
@@ -68917,7 +68917,7 @@
         {
             "level_0": "2018",
             "k": "pereira_&_tostao",
-            "n_ec": 223.0,
+            "n_ec": 1223.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Pereira & Tost\u00e3o",
             "t_scheduled": 240.0,
             "t_done": 238.0,
@@ -68933,7 +68933,7 @@
         {
             "level_0": "2018",
             "k": "campeao",
-            "n_ec": 224.0,
+            "n_ec": 1224.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Campe\u00e3o",
             "t_scheduled": 139.0,
             "t_done": 135.0,
@@ -68949,7 +68949,7 @@
         {
             "level_0": "2018",
             "k": "defensiva",
-            "n_ec": 225.0,
+            "n_ec": 1225.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Defensiva",
             "t_scheduled": 112.0,
             "t_done": 100.0,
@@ -68965,7 +68965,7 @@
         {
             "level_0": "2018",
             "k": "prior_velho",
-            "n_ec": 226.0,
+            "n_ec": 1226.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Prior Velho",
             "t_scheduled": 140.0,
             "t_done": 127.0,
@@ -68981,7 +68981,7 @@
         {
             "level_0": "2018",
             "k": "preferencia",
-            "n_ec": 228.0,
+            "n_ec": 1228.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Prefer\u00eancia",
             "t_scheduled": 37.0,
             "t_done": 34.0,
@@ -68997,7 +68997,7 @@
         {
             "level_0": "2018",
             "k": "sete_saias",
-            "n_ec": 229.0,
+            "n_ec": 1229.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Sete Saias",
             "t_scheduled": 157.0,
             "t_done": 156.0,
@@ -69013,7 +69013,7 @@
         {
             "level_0": "2018",
             "k": "porto_alto",
-            "n_ec": 231.0,
+            "n_ec": 1231.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Porto Alto",
             "t_scheduled": 370.0,
             "t_done": 357.0,
@@ -69029,7 +69029,7 @@
         {
             "level_0": "2018",
             "k": "a_nova_de_mozelos",
-            "n_ec": 232.0,
+            "n_ec": 1232.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o A Nova De Mozelos",
             "t_scheduled": 168.0,
             "t_done": 166.0,
@@ -69045,7 +69045,7 @@
         {
             "level_0": "2018",
             "k": "granja_parque",
-            "n_ec": 233.0,
+            "n_ec": 1233.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Granja Parque",
             "t_scheduled": 123.0,
             "t_done": 117.0,
@@ -69061,7 +69061,7 @@
         {
             "level_0": "2018",
             "k": "lumiar",
-            "n_ec": 234.0,
+            "n_ec": 1234.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Lumiar",
             "t_scheduled": 1152.0,
             "t_done": 1113.0,
@@ -69077,7 +69077,7 @@
         {
             "level_0": "2018",
             "k": "gemeos",
-            "n_ec": 235.0,
+            "n_ec": 1235.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o G\u00e9meos",
             "t_scheduled": 397.0,
             "t_done": 375.0,
@@ -69093,7 +69093,7 @@
         {
             "level_0": "2018",
             "k": "rio_sul",
-            "n_ec": 236.0,
+            "n_ec": 1236.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Rio Sul",
             "t_scheduled": 231.0,
             "t_done": 226.0,
@@ -69109,7 +69109,7 @@
         {
             "level_0": "2018",
             "k": "cesarense",
-            "n_ec": 237.0,
+            "n_ec": 1237.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Cesarense",
             "t_scheduled": 180.0,
             "t_done": 157.0,
@@ -69125,7 +69125,7 @@
         {
             "level_0": "2018",
             "k": "a_sul_parque",
-            "n_ec": 238.0,
+            "n_ec": 1238.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o A Sul Parque",
             "t_scheduled": 115.0,
             "t_done": 115.0,
@@ -69141,7 +69141,7 @@
         {
             "level_0": "2018",
             "k": "nova_geracao",
-            "n_ec": 240.0,
+            "n_ec": 1240.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Nova Gera\u00e7\u00e3o",
             "t_scheduled": 128.0,
             "t_done": 125.0,
@@ -69157,7 +69157,7 @@
         {
             "level_0": "2018",
             "k": "francipaulo",
-            "n_ec": 241.0,
+            "n_ec": 1241.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Francipaulo",
             "t_scheduled": 182.0,
             "t_done": 171.0,
@@ -69173,7 +69173,7 @@
         {
             "level_0": "2018",
             "k": "altamente",
-            "n_ec": 242.0,
+            "n_ec": 1242.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Altamente",
             "t_scheduled": 149.0,
             "t_done": 145.0,
@@ -69189,7 +69189,7 @@
         {
             "level_0": "2018",
             "k": "queijas",
-            "n_ec": 243.0,
+            "n_ec": 1243.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Queijas",
             "t_scheduled": 162.0,
             "t_done": 156.0,
@@ -69205,7 +69205,7 @@
         {
             "level_0": "2018",
             "k": "via_segura",
-            "n_ec": 244.0,
+            "n_ec": 1244.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Via Segura",
             "t_scheduled": 57.0,
             "t_done": 57.0,
@@ -69221,7 +69221,7 @@
         {
             "level_0": "2018",
             "k": "alto_dos_moinhos",
-            "n_ec": 245.0,
+            "n_ec": 1245.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Alto Dos Moinhos",
             "t_scheduled": 311.0,
             "t_done": 294.0,
@@ -69237,7 +69237,7 @@
         {
             "level_0": "2018",
             "k": "frc_lixa",
-            "n_ec": 246.0,
+            "n_ec": 1246.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Frc-Lixa",
             "t_scheduled": 156.0,
             "t_done": 154.0,
@@ -69253,7 +69253,7 @@
         {
             "level_0": "2018",
             "k": "do_almirante",
-            "n_ec": 247.0,
+            "n_ec": 1247.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Do Almirante",
             "t_scheduled": 195.0,
             "t_done": 180.0,
@@ -69269,7 +69269,7 @@
         {
             "level_0": "2018",
             "k": "coimbra_de_santa_iria",
-            "n_ec": 248.0,
+            "n_ec": 1248.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Coimbra De Santa Iria",
             "t_scheduled": 66.0,
             "t_done": 61.0,
@@ -69285,7 +69285,7 @@
         {
             "level_0": "2018",
             "k": "convento",
-            "n_ec": 249.0,
+            "n_ec": 1249.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Convento",
             "t_scheduled": 350.0,
             "t_done": 341.0,
@@ -69301,7 +69301,7 @@
         {
             "level_0": "2018",
             "k": "globo",
-            "n_ec": 250.0,
+            "n_ec": 1250.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Globo",
             "t_scheduled": 110.0,
             "t_done": 110.0,
@@ -69317,7 +69317,7 @@
         {
             "level_0": "2018",
             "k": "estoi",
-            "n_ec": 251.0,
+            "n_ec": 1251.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Est\u00f3i",
             "t_scheduled": 78.0,
             "t_done": 77.0,
@@ -69333,7 +69333,7 @@
         {
             "level_0": "2018",
             "k": "sentido_obrigatorio",
-            "n_ec": 252.0,
+            "n_ec": 1252.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Sentido Obrigat\u00f3rio",
             "t_scheduled": 220.0,
             "t_done": 214.0,
@@ -69349,7 +69349,7 @@
         {
             "level_0": "2018",
             "k": "j_l",
-            "n_ec": 253.0,
+            "n_ec": 1253.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o J L",
             "t_scheduled": 184.0,
             "t_done": 175.0,
@@ -69365,7 +69365,7 @@
         {
             "level_0": "2018",
             "k": "nova_expo",
-            "n_ec": 254.0,
+            "n_ec": 1254.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Nova Expo",
             "t_scheduled": 663.0,
             "t_done": 640.0,
@@ -69381,7 +69381,7 @@
         {
             "level_0": "2018",
             "k": "fidalguinhos",
-            "n_ec": 255.0,
+            "n_ec": 1255.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Fidalguinhos",
             "t_scheduled": 287.0,
             "t_done": 272.0,
@@ -69397,7 +69397,7 @@
         {
             "level_0": "2018",
             "k": "campo_grande",
-            "n_ec": 256.0,
+            "n_ec": 1256.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Campo Grande",
             "t_scheduled": 458.0,
             "t_done": 436.0,
@@ -69413,7 +69413,7 @@
         {
             "level_0": "2018",
             "k": "inicios",
-            "n_ec": 257.0,
+            "n_ec": 1257.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Inicios",
             "t_scheduled": 96.0,
             "t_done": 96.0,
@@ -69429,7 +69429,7 @@
         {
             "level_0": "2018",
             "k": "espiral",
-            "n_ec": 258.0,
+            "n_ec": 1258.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Espiral",
             "t_scheduled": 44.0,
             "t_done": 42.0,
@@ -69445,7 +69445,7 @@
         {
             "level_0": "2018",
             "k": "topdrive",
-            "n_ec": 259.0,
+            "n_ec": 1259.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Topdrive",
             "t_scheduled": 374.0,
             "t_done": 354.0,
@@ -69461,7 +69461,7 @@
         {
             "level_0": "2018",
             "k": "aleu",
-            "n_ec": 260.0,
+            "n_ec": 1260.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Aleu",
             "t_scheduled": 62.0,
             "t_done": 57.0,
@@ -69477,7 +69477,7 @@
         {
             "level_0": "2018",
             "k": "areias_mar",
-            "n_ec": 261.0,
+            "n_ec": 1261.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Areias Mar",
             "t_scheduled": 149.0,
             "t_done": 142.0,
@@ -69493,7 +69493,7 @@
         {
             "level_0": "2018",
             "k": "jupiter",
-            "n_ec": 262.0,
+            "n_ec": 1262.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o J\u00fapiter",
             "t_scheduled": 205.0,
             "t_done": 196.0,
@@ -69509,7 +69509,7 @@
         {
             "level_0": "2018",
             "k": "parque_das_nacoes",
-            "n_ec": 263.0,
+            "n_ec": 1263.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Parque Das Na\u00e7\u00f5es",
             "t_scheduled": 252.0,
             "t_done": 252.0,
@@ -69525,7 +69525,7 @@
         {
             "level_0": "2018",
             "k": "max",
-            "n_ec": 264.0,
+            "n_ec": 1264.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Max",
             "t_scheduled": 121.0,
             "t_done": 120.0,
@@ -69541,7 +69541,7 @@
         {
             "level_0": "2018",
             "k": "nova_imagem",
-            "n_ec": 265.0,
+            "n_ec": 1265.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Nova Imagem",
             "t_scheduled": 57.0,
             "t_done": 56.0,
@@ -69557,7 +69557,7 @@
         {
             "level_0": "2018",
             "k": "pedras_salgadas",
-            "n_ec": 266.0,
+            "n_ec": 1266.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Pedras Salgadas",
             "t_scheduled": 19.0,
             "t_done": 19.0,
@@ -69573,7 +69573,7 @@
         {
             "level_0": "2018",
             "k": "o_pelourinho",
-            "n_ec": 268.0,
+            "n_ec": 1268.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o O Pelourinho",
             "t_scheduled": 292.0,
             "t_done": 255.0,
@@ -69589,7 +69589,7 @@
         {
             "level_0": "2018",
             "k": "centro_sul",
-            "n_ec": 269.0,
+            "n_ec": 1269.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Centro Sul",
             "t_scheduled": 191.0,
             "t_done": 184.0,
@@ -69605,7 +69605,7 @@
         {
             "level_0": "2018",
             "k": "via_vanda",
-            "n_ec": 270.0,
+            "n_ec": 1270.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Via Vanda",
             "t_scheduled": 94.0,
             "t_done": 92.0,
@@ -69621,7 +69621,7 @@
         {
             "level_0": "2018",
             "k": "belas",
-            "n_ec": 271.0,
+            "n_ec": 1271.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Belas",
             "t_scheduled": 172.0,
             "t_done": 153.0,
@@ -69637,7 +69637,7 @@
         {
             "level_0": "2018",
             "k": "malvarosa",
-            "n_ec": 272.0,
+            "n_ec": 1272.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Malvarosa",
             "t_scheduled": 85.0,
             "t_done": 85.0,
@@ -69653,7 +69653,7 @@
         {
             "level_0": "2018",
             "k": "net_rodas",
-            "n_ec": 273.0,
+            "n_ec": 1273.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Net Rodas",
             "t_scheduled": 260.0,
             "t_done": 253.0,
@@ -69669,7 +69669,7 @@
         {
             "level_0": "2018",
             "k": "alcabideche",
-            "n_ec": 274.0,
+            "n_ec": 1274.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Alcabideche",
             "t_scheduled": 337.0,
             "t_done": 321.0,
@@ -69685,7 +69685,7 @@
         {
             "level_0": "2018",
             "k": "cais_do_sodre",
-            "n_ec": 275.0,
+            "n_ec": 1275.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Cais Do Sodr\u00e9",
             "t_scheduled": 472.0,
             "t_done": 443.0,
@@ -69701,7 +69701,7 @@
         {
             "level_0": "2018",
             "k": "norte",
-            "n_ec": 276.0,
+            "n_ec": 1276.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Norte",
             "t_scheduled": 163.0,
             "t_done": 156.0,
@@ -69717,7 +69717,7 @@
         {
             "level_0": "2018",
             "k": "hora_de_ponta",
-            "n_ec": 277.0,
+            "n_ec": 1277.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Hora De Ponta",
             "t_scheduled": 169.0,
             "t_done": 160.0,
@@ -69733,7 +69733,7 @@
         {
             "level_0": "2018",
             "k": "auto_corgo",
-            "n_ec": 278.0,
+            "n_ec": 1278.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Auto Corgo",
             "t_scheduled": 74.0,
             "t_done": 67.0,
@@ -69749,7 +69749,7 @@
         {
             "level_0": "2018",
             "k": "seixalinho",
-            "n_ec": 279.0,
+            "n_ec": 1279.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Seixalinho",
             "t_scheduled": 266.0,
             "t_done": 255.0,
@@ -69765,7 +69765,7 @@
         {
             "level_0": "2018",
             "k": "laranjeiras",
-            "n_ec": 280.0,
+            "n_ec": 1280.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Laranjeiras",
             "t_scheduled": 287.0,
             "t_done": 278.0,
@@ -69781,7 +69781,7 @@
         {
             "level_0": "2018",
             "k": "belqui",
-            "n_ec": 281.0,
+            "n_ec": 1281.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Belqui",
             "t_scheduled": 106.0,
             "t_done": 106.0,
@@ -69797,7 +69797,7 @@
         {
             "level_0": "2018",
             "k": "vale_mourao",
-            "n_ec": 282.0,
+            "n_ec": 1282.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Vale Mour\u00e3o",
             "t_scheduled": 157.0,
             "t_done": 156.0,
@@ -69813,7 +69813,7 @@
         {
             "level_0": "2018",
             "k": "helder_pereira",
-            "n_ec": 283.0,
+            "n_ec": 1283.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o H\u00e9lder Pereira",
             "t_scheduled": 355.0,
             "t_done": 345.0,
@@ -69829,7 +69829,7 @@
         {
             "level_0": "2018",
             "k": "profissional",
-            "n_ec": 284.0,
+            "n_ec": 1284.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Profissional",
             "t_scheduled": 458.0,
             "t_done": 444.0,
@@ -69845,7 +69845,7 @@
         {
             "level_0": "2018",
             "k": "da_charneca",
-            "n_ec": 285.0,
+            "n_ec": 1285.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Charneca",
             "t_scheduled": 461.0,
             "t_done": 448.0,
@@ -69861,7 +69861,7 @@
         {
             "level_0": "2018",
             "k": "porto_salvo",
-            "n_ec": 286.0,
+            "n_ec": 1286.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Porto Salvo",
             "t_scheduled": 141.0,
             "t_done": 139.0,
@@ -69877,7 +69877,7 @@
         {
             "level_0": "2018",
             "k": "montejunto",
-            "n_ec": 287.0,
+            "n_ec": 1287.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Montejunto",
             "t_scheduled": 125.0,
             "t_done": 123.0,
@@ -69893,7 +69893,7 @@
         {
             "level_0": "2018",
             "k": "x_perfeito",
-            "n_ec": 288.0,
+            "n_ec": 1288.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o X-Perfeito",
             "t_scheduled": 261.0,
             "t_done": 254.0,
@@ -69909,7 +69909,7 @@
         {
             "level_0": "2018",
             "k": "nova_de_loule",
-            "n_ec": 289.0,
+            "n_ec": 1289.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Nova De Loul\u00e9",
             "t_scheduled": 256.0,
             "t_done": 252.0,
@@ -69925,7 +69925,7 @@
         {
             "level_0": "2018",
             "k": "conduza_mais",
-            "n_ec": 290.0,
+            "n_ec": 1290.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Conduza Mais",
             "t_scheduled": 113.0,
             "t_done": 112.0,
@@ -69941,7 +69941,7 @@
         {
             "level_0": "2018",
             "k": "oitava",
-            "n_ec": 291.0,
+            "n_ec": 1291.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Oitava",
             "t_scheduled": 156.0,
             "t_done": 154.0,
@@ -69957,7 +69957,7 @@
         {
             "level_0": "2018",
             "k": "gama_barros",
-            "n_ec": 292.0,
+            "n_ec": 1292.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Gama Barros",
             "t_scheduled": 277.0,
             "t_done": 270.0,
@@ -69973,7 +69973,7 @@
         {
             "level_0": "2018",
             "k": "marrazes",
-            "n_ec": 293.0,
+            "n_ec": 1293.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Marrazes",
             "t_scheduled": 120.0,
             "t_done": 116.0,
@@ -69989,7 +69989,7 @@
         {
             "level_0": "2018",
             "k": "seven",
-            "n_ec": 294.0,
+            "n_ec": 1294.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Seven",
             "t_scheduled": 97.0,
             "t_done": 94.0,
@@ -70005,7 +70005,7 @@
         {
             "level_0": "2018",
             "k": "planicie",
-            "n_ec": 296.0,
+            "n_ec": 1296.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Plan\u00edcie",
             "t_scheduled": 47.0,
             "t_done": 44.0,
@@ -70021,7 +70021,7 @@
         {
             "level_0": "2018",
             "k": "caldas",
-            "n_ec": 297.0,
+            "n_ec": 1297.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Caldas",
             "t_scheduled": 425.0,
             "t_done": 417.0,
@@ -70037,7 +70037,7 @@
         {
             "level_0": "2018",
             "k": "cascais",
-            "n_ec": 298.0,
+            "n_ec": 1298.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Cascais",
             "t_scheduled": 340.0,
             "t_done": 331.0,
@@ -70053,7 +70053,7 @@
         {
             "level_0": "2018",
             "k": "eficiencia",
-            "n_ec": 299.0,
+            "n_ec": 1299.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Efici\u00eancia",
             "t_scheduled": 128.0,
             "t_done": 123.0,
@@ -70069,7 +70069,7 @@
         {
             "level_0": "2018",
             "k": "brandoa",
-            "n_ec": 300.0,
+            "n_ec": 1300.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Brandoa",
             "t_scheduled": 142.0,
             "t_done": 140.0,
@@ -70085,7 +70085,7 @@
         {
             "level_0": "2018",
             "k": "triplo_s",
-            "n_ec": 301.0,
+            "n_ec": 1301.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Triplo S",
             "t_scheduled": 200.0,
             "t_done": 197.0,
@@ -70101,7 +70101,7 @@
         {
             "level_0": "2018",
             "k": "gueifaes",
-            "n_ec": 304.0,
+            "n_ec": 1304.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Gueif\u00e3es",
             "t_scheduled": 149.0,
             "t_done": 148.0,
@@ -70117,7 +70117,7 @@
         {
             "level_0": "2018",
             "k": "universia",
-            "n_ec": 305.0,
+            "n_ec": 1305.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Universia",
             "t_scheduled": 144.0,
             "t_done": 140.0,
@@ -70133,7 +70133,7 @@
         {
             "level_0": "2018",
             "k": "dinossauro",
-            "n_ec": 306.0,
+            "n_ec": 1306.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Dinossauro",
             "t_scheduled": 208.0,
             "t_done": 199.0,
@@ -70149,7 +70149,7 @@
         {
             "level_0": "2018",
             "k": "sudoeste",
-            "n_ec": 308.0,
+            "n_ec": 1308.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Sudoeste",
             "t_scheduled": 219.0,
             "t_done": 214.0,
@@ -70165,7 +70165,7 @@
         {
             "level_0": "2018",
             "k": "granvia",
-            "n_ec": 309.0,
+            "n_ec": 1309.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Granvia",
             "t_scheduled": 105.0,
             "t_done": 104.0,
@@ -70181,7 +70181,7 @@
         {
             "level_0": "2018",
             "k": "eco_brandoa",
-            "n_ec": 310.0,
+            "n_ec": 1310.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Eco Brandoa",
             "t_scheduled": 150.0,
             "t_done": 147.0,
@@ -70197,7 +70197,7 @@
         {
             "level_0": "2018",
             "k": "moliceiro",
-            "n_ec": 311.0,
+            "n_ec": 1311.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Moliceiro",
             "t_scheduled": 112.0,
             "t_done": 111.0,
@@ -70213,7 +70213,7 @@
         {
             "level_0": "2018",
             "k": "guimaraescidade",
-            "n_ec": 312.0,
+            "n_ec": 1312.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Guimaraescidade",
             "t_scheduled": 83.0,
             "t_done": 82.0,
@@ -70229,7 +70229,7 @@
         {
             "level_0": "2018",
             "k": "via_drive",
-            "n_ec": 313.0,
+            "n_ec": 1313.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Via Drive",
             "t_scheduled": 74.0,
             "t_done": 74.0,
@@ -70245,7 +70245,7 @@
         {
             "level_0": "2018",
             "k": "malhoa",
-            "n_ec": 314.0,
+            "n_ec": 1314.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Malhoa",
             "t_scheduled": 58.0,
             "t_done": 56.0,
@@ -70261,7 +70261,7 @@
         {
             "level_0": "2018",
             "k": "solum",
-            "n_ec": 315.0,
+            "n_ec": 1315.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Solum",
             "t_scheduled": 259.0,
             "t_done": 250.0,
@@ -70277,7 +70277,7 @@
         {
             "level_0": "2018",
             "k": "de_barrosas",
-            "n_ec": 316.0,
+            "n_ec": 1316.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Barrosas",
             "t_scheduled": 21.0,
             "t_done": 21.0,
@@ -70293,7 +70293,7 @@
         {
             "level_0": "2018",
             "k": "taveiro",
-            "n_ec": 318.0,
+            "n_ec": 1318.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Taveiro",
             "t_scheduled": 110.0,
             "t_done": 109.0,
@@ -70309,7 +70309,7 @@
         {
             "level_0": "2018",
             "k": "medieval",
-            "n_ec": 319.0,
+            "n_ec": 1319.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Medieval",
             "t_scheduled": 179.0,
             "t_done": 174.0,
@@ -70325,7 +70325,7 @@
         {
             "level_0": "2018",
             "k": "conduzir_em_seguranca",
-            "n_ec": 320.0,
+            "n_ec": 1320.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Conduzir Em Seguran\u00e7a",
             "t_scheduled": 174.0,
             "t_done": 166.0,
@@ -70341,7 +70341,7 @@
         {
             "level_0": "2018",
             "k": "porto_bessa",
-            "n_ec": 321.0,
+            "n_ec": 1321.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Porto Bessa",
             "t_scheduled": 320.0,
             "t_done": 315.0,
@@ -70357,7 +70357,7 @@
         {
             "level_0": "2018",
             "k": "nova_de_aveiro",
-            "n_ec": 322.0,
+            "n_ec": 1322.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Nova De Aveiro",
             "t_scheduled": 375.0,
             "t_done": 361.0,
@@ -70373,7 +70373,7 @@
         {
             "level_0": "2018",
             "k": "nova_de_peniche",
-            "n_ec": 323.0,
+            "n_ec": 1323.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Nova De Peniche",
             "t_scheduled": 77.0,
             "t_done": 74.0,
@@ -70389,7 +70389,7 @@
         {
             "level_0": "2018",
             "k": "bruno_neves",
-            "n_ec": 325.0,
+            "n_ec": 1325.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Bruno Neves",
             "t_scheduled": 279.0,
             "t_done": 270.0,
@@ -70405,7 +70405,7 @@
         {
             "level_0": "2018",
             "k": "siiimplelegre",
-            "n_ec": 326.0,
+            "n_ec": 1326.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Siiimplelegre",
             "t_scheduled": 95.0,
             "t_done": 86.0,
@@ -70421,7 +70421,7 @@
         {
             "level_0": "2018",
             "k": "rpm32",
-            "n_ec": 327.0,
+            "n_ec": 1327.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Rpm32",
             "t_scheduled": 117.0,
             "t_done": 116.0,
@@ -70437,7 +70437,7 @@
         {
             "level_0": "2018",
             "k": "classe",
-            "n_ec": 328.0,
+            "n_ec": 1328.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Classe",
             "t_scheduled": 274.0,
             "t_done": 273.0,
@@ -70453,7 +70453,7 @@
         {
             "level_0": "2018",
             "k": "novo_engenho",
-            "n_ec": 329.0,
+            "n_ec": 1329.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Novo Engenho",
             "t_scheduled": 149.0,
             "t_done": 146.0,
@@ -70469,7 +70469,7 @@
         {
             "level_0": "2018",
             "k": "aqueduto",
-            "n_ec": 330.0,
+            "n_ec": 1330.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Aqueduto",
             "t_scheduled": 171.0,
             "t_done": 165.0,
@@ -70485,7 +70485,7 @@
         {
             "level_0": "2018",
             "k": "nova_de_albergaria",
-            "n_ec": 331.0,
+            "n_ec": 1331.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Nova De Albergaria",
             "t_scheduled": 137.0,
             "t_done": 129.0,
@@ -70501,7 +70501,7 @@
         {
             "level_0": "2018",
             "k": "povoa_de_santo_adriao",
-            "n_ec": 332.0,
+            "n_ec": 1332.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o P\u00f3voa De Santo Adri\u00e3o",
             "t_scheduled": 169.0,
             "t_done": 165.0,
@@ -70517,7 +70517,7 @@
         {
             "level_0": "2018",
             "k": "nova_rainha",
-            "n_ec": 333.0,
+            "n_ec": 1333.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Nova Rainha",
             "t_scheduled": 165.0,
             "t_done": 164.0,
@@ -70533,7 +70533,7 @@
         {
             "level_0": "2018",
             "k": "abs",
-            "n_ec": 334.0,
+            "n_ec": 1334.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Abs",
             "t_scheduled": 219.0,
             "t_done": 212.0,
@@ -70549,7 +70549,7 @@
         {
             "level_0": "2018",
             "k": "leiridrive",
-            "n_ec": 335.0,
+            "n_ec": 1335.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Leiridrive",
             "t_scheduled": 138.0,
             "t_done": 138.0,
@@ -70565,7 +70565,7 @@
         {
             "level_0": "2018",
             "k": "nova_paredes",
-            "n_ec": 336.0,
+            "n_ec": 1336.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Nova Paredes",
             "t_scheduled": 155.0,
             "t_done": 154.0,
@@ -70581,7 +70581,7 @@
         {
             "level_0": "2018",
             "k": "via_dinamica",
-            "n_ec": 337.0,
+            "n_ec": 1337.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Via Din\u00e2mica",
             "t_scheduled": 109.0,
             "t_done": 108.0,
@@ -70597,7 +70597,7 @@
         {
             "level_0": "2018",
             "k": "limits",
-            "n_ec": 338.0,
+            "n_ec": 1338.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Limits",
             "t_scheduled": 89.0,
             "t_done": 88.0,
@@ -70613,7 +70613,7 @@
         {
             "level_0": "2018",
             "k": "seguranca_activa",
-            "n_ec": 339.0,
+            "n_ec": 1339.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Seguran\u00e7a Activa",
             "t_scheduled": 112.0,
             "t_done": 105.0,
@@ -70629,7 +70629,7 @@
         {
             "level_0": "2018",
             "k": "louzan",
-            "n_ec": 340.0,
+            "n_ec": 1340.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Louzan",
             "t_scheduled": 184.0,
             "t_done": 179.0,
@@ -70645,7 +70645,7 @@
         {
             "level_0": "2018",
             "k": "positiva",
-            "n_ec": 341.0,
+            "n_ec": 1341.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Positiva",
             "t_scheduled": 80.0,
             "t_done": 79.0,
@@ -70661,7 +70661,7 @@
         {
             "level_0": "2018",
             "k": "casal_de_cambra",
-            "n_ec": 342.0,
+            "n_ec": 1342.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Casal De Cambra",
             "t_scheduled": 150.0,
             "t_done": 145.0,
@@ -70677,7 +70677,7 @@
         {
             "level_0": "2018",
             "k": "castro_daire",
-            "n_ec": 343.0,
+            "n_ec": 1343.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Castro Daire",
             "t_scheduled": 105.0,
             "t_done": 100.0,
@@ -70693,7 +70693,7 @@
         {
             "level_0": "2018",
             "k": "tecnica",
-            "n_ec": 346.0,
+            "n_ec": 1346.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o T\u00e9cnica",
             "t_scheduled": 1.0,
             "t_done": 1.0,
@@ -70709,7 +70709,7 @@
         {
             "level_0": "2018",
             "k": "olidrive",
-            "n_ec": 347.0,
+            "n_ec": 1347.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Olidrive",
             "t_scheduled": 125.0,
             "t_done": 122.0,
@@ -70725,7 +70725,7 @@
         {
             "level_0": "2018",
             "k": "de_bustos",
-            "n_ec": 348.0,
+            "n_ec": 1348.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Bustos",
             "t_scheduled": 67.0,
             "t_done": 66.0,
@@ -70741,7 +70741,7 @@
         {
             "level_0": "2018",
             "k": "nova_mira",
-            "n_ec": 349.0,
+            "n_ec": 1349.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Nova Mira",
             "t_scheduled": 141.0,
             "t_done": 139.0,
@@ -70757,7 +70757,7 @@
         {
             "level_0": "2018",
             "k": "carristur",
-            "n_ec": 350.0,
+            "n_ec": 1350.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Carristur",
             "t_scheduled": 158.0,
             "t_done": 157.0,
@@ -70773,7 +70773,7 @@
         {
             "level_0": "2018",
             "k": "faro_em_movimento",
-            "n_ec": 351.0,
+            "n_ec": 1351.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Faro Em Movimento",
             "t_scheduled": 121.0,
             "t_done": 120.0,
@@ -70789,7 +70789,7 @@
         {
             "level_0": "2018",
             "k": "de_ramalde",
-            "n_ec": 352.0,
+            "n_ec": 1352.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Ramalde",
             "t_scheduled": 177.0,
             "t_done": 162.0,
@@ -70805,7 +70805,7 @@
         {
             "level_0": "2018",
             "k": "universidade",
-            "n_ec": 353.0,
+            "n_ec": 1353.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Universidade",
             "t_scheduled": 252.0,
             "t_done": 243.0,
@@ -70821,7 +70821,7 @@
         {
             "level_0": "2018",
             "k": "balasar",
-            "n_ec": 354.0,
+            "n_ec": 1354.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Balasar",
             "t_scheduled": 40.0,
             "t_done": 39.0,
@@ -70837,7 +70837,7 @@
         {
             "level_0": "2018",
             "k": "nova_de_matosinhos",
-            "n_ec": 355.0,
+            "n_ec": 1355.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Nova De Matosinhos",
             "t_scheduled": 234.0,
             "t_done": 229.0,
@@ -70853,7 +70853,7 @@
         {
             "level_0": "2018",
             "k": "keris",
-            "n_ec": 356.0,
+            "n_ec": 1356.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o K\u00e9ris",
             "t_scheduled": 51.0,
             "t_done": 51.0,
@@ -70869,7 +70869,7 @@
         {
             "level_0": "2018",
             "k": "nova_do_bombarral",
-            "n_ec": 357.0,
+            "n_ec": 1357.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Nova Do Bombarral",
             "t_scheduled": 74.0,
             "t_done": 73.0,
@@ -70885,7 +70885,7 @@
         {
             "level_0": "2018",
             "k": "estrela_do_mar",
-            "n_ec": 358.0,
+            "n_ec": 1358.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Estrela Do Mar",
             "t_scheduled": 67.0,
             "t_done": 67.0,
@@ -70901,7 +70901,7 @@
         {
             "level_0": "2018",
             "k": "roda_segura",
-            "n_ec": 359.0,
+            "n_ec": 1359.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Roda Segura",
             "t_scheduled": 135.0,
             "t_done": 133.0,
@@ -70917,7 +70917,7 @@
         {
             "level_0": "2018",
             "k": "gato_preto",
-            "n_ec": 360.0,
+            "n_ec": 1360.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Gato Preto",
             "t_scheduled": 126.0,
             "t_done": 123.0,
@@ -70933,7 +70933,7 @@
         {
             "level_0": "2018",
             "k": "crystal",
-            "n_ec": 361.0,
+            "n_ec": 1361.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Crystal",
             "t_scheduled": 95.0,
             "t_done": 88.0,
@@ -70949,7 +70949,7 @@
         {
             "level_0": "2018",
             "k": "de_ilhavo",
-            "n_ec": 362.0,
+            "n_ec": 1362.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o De \u00cdlhavo",
             "t_scheduled": 116.0,
             "t_done": 112.0,
@@ -70965,7 +70965,7 @@
         {
             "level_0": "2018",
             "k": "linha_de_cascais",
-            "n_ec": 363.0,
+            "n_ec": 1363.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Linha De Cascais",
             "t_scheduled": 168.0,
             "t_done": 166.0,
@@ -70981,7 +70981,7 @@
         {
             "level_0": "2018",
             "k": "nova_de_setubal",
-            "n_ec": 364.0,
+            "n_ec": 1364.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Nova De Set\u00fabal",
             "t_scheduled": 139.0,
             "t_done": 134.0,
@@ -70997,7 +70997,7 @@
         {
             "level_0": "2018",
             "k": "da_costa",
-            "n_ec": 365.0,
+            "n_ec": 1365.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Costa",
             "t_scheduled": 137.0,
             "t_done": 131.0,
@@ -71013,7 +71013,7 @@
         {
             "level_0": "2018",
             "k": "marinha_das_ondas",
-            "n_ec": 366.0,
+            "n_ec": 1366.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Marinha Das Ondas",
             "t_scheduled": 68.0,
             "t_done": 66.0,
@@ -71029,7 +71029,7 @@
         {
             "level_0": "2018",
             "k": "vida_nova",
-            "n_ec": 367.0,
+            "n_ec": 1367.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Vida Nova",
             "t_scheduled": 78.0,
             "t_done": 76.0,
@@ -71045,7 +71045,7 @@
         {
             "level_0": "2018",
             "k": "dos_olivais",
-            "n_ec": 368.0,
+            "n_ec": 1368.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Dos Olivais",
             "t_scheduled": 193.0,
             "t_done": 182.0,
@@ -71061,7 +71061,7 @@
         {
             "level_0": "2018",
             "k": "lizauto",
-            "n_ec": 369.0,
+            "n_ec": 1369.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Lizauto",
             "t_scheduled": 63.0,
             "t_done": 62.0,
@@ -71077,7 +71077,7 @@
         {
             "level_0": "2018",
             "k": "clube_do_condutor",
-            "n_ec": 370.0,
+            "n_ec": 1370.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Clube Do Condutor",
             "t_scheduled": 52.0,
             "t_done": 51.0,
@@ -71093,7 +71093,7 @@
         {
             "level_0": "2018",
             "k": "star",
-            "n_ec": 371.0,
+            "n_ec": 1371.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Star",
             "t_scheduled": 130.0,
             "t_done": 130.0,
@@ -71109,7 +71109,7 @@
         {
             "level_0": "2018",
             "k": "5_sentidos",
-            "n_ec": 372.0,
+            "n_ec": 1372.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o 5 Sentidos",
             "t_scheduled": 187.0,
             "t_done": 186.0,
@@ -71125,7 +71125,7 @@
         {
             "level_0": "2018",
             "k": "boa_onda",
-            "n_ec": 373.0,
+            "n_ec": 1373.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Boa Onda",
             "t_scheduled": 64.0,
             "t_done": 64.0,
@@ -71141,7 +71141,7 @@
         {
             "level_0": "2018",
             "k": "a_minhota_de_fraiao",
-            "n_ec": 374.0,
+            "n_ec": 1374.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o A Minhota De Frai\u00e3o",
             "t_scheduled": 366.0,
             "t_done": 355.0,
@@ -71157,7 +71157,7 @@
         {
             "level_0": "2018",
             "k": "aljubarrota",
-            "n_ec": 375.0,
+            "n_ec": 1375.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Aljubarrota",
             "t_scheduled": 50.0,
             "t_done": 50.0,
@@ -71173,7 +71173,7 @@
         {
             "level_0": "2018",
             "k": "polo_universitario",
-            "n_ec": 376.0,
+            "n_ec": 1376.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o P\u00f3lo Universit\u00e1rio",
             "t_scheduled": 199.0,
             "t_done": 197.0,
@@ -71189,7 +71189,7 @@
         {
             "level_0": "2018",
             "k": "quinta_das_flores",
-            "n_ec": 377.0,
+            "n_ec": 1377.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Quinta Das Flores",
             "t_scheduled": 198.0,
             "t_done": 194.0,
@@ -71205,7 +71205,7 @@
         {
             "level_0": "2018",
             "k": "capas_negras",
-            "n_ec": 378.0,
+            "n_ec": 1378.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Capas Negras",
             "t_scheduled": 0.0,
             "t_done": 0.0,
@@ -71221,7 +71221,7 @@
         {
             "level_0": "2018",
             "k": "sao_bernardo",
-            "n_ec": 379.0,
+            "n_ec": 1379.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o S\u00e3o Bernardo",
             "t_scheduled": 146.0,
             "t_done": 143.0,
@@ -71237,7 +71237,7 @@
         {
             "level_0": "2018",
             "k": "a_moncanense",
-            "n_ec": 380.0,
+            "n_ec": 1380.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o A Mon\u00e7anense",
             "t_scheduled": 84.0,
             "t_done": 81.0,
@@ -71253,7 +71253,7 @@
         {
             "level_0": "2018",
             "k": "mira_vez",
-            "n_ec": 381.0,
+            "n_ec": 1381.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Mira-Vez",
             "t_scheduled": 78.0,
             "t_done": 75.0,
@@ -71269,7 +71269,7 @@
         {
             "level_0": "2018",
             "k": "aprendizes_do_volante",
-            "n_ec": 382.0,
+            "n_ec": 1382.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Aprendizes Do Volante",
             "t_scheduled": 87.0,
             "t_done": 85.0,
@@ -71285,7 +71285,7 @@
         {
             "level_0": "2018",
             "k": "vila_drive",
-            "n_ec": 383.0,
+            "n_ec": 1383.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Vila Drive",
             "t_scheduled": 191.0,
             "t_done": 178.0,
@@ -71301,7 +71301,7 @@
         {
             "level_0": "2018",
             "k": "via_azemeis",
-            "n_ec": 384.0,
+            "n_ec": 1384.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Via Azem\u00e9is",
             "t_scheduled": 93.0,
             "t_done": 89.0,
@@ -71317,7 +71317,7 @@
         {
             "level_0": "2018",
             "k": "prodigio",
-            "n_ec": 385.0,
+            "n_ec": 1385.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Prod\u00edgio",
             "t_scheduled": 239.0,
             "t_done": 227.0,
@@ -71333,7 +71333,7 @@
         {
             "level_0": "2018",
             "k": "auto_drive",
-            "n_ec": 386.0,
+            "n_ec": 1386.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Auto Drive",
             "t_scheduled": 187.0,
             "t_done": 183.0,
@@ -71349,7 +71349,7 @@
         {
             "level_0": "2018",
             "k": "inovaguima",
-            "n_ec": 387.0,
+            "n_ec": 1387.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Inovaguima",
             "t_scheduled": 287.0,
             "t_done": 280.0,
@@ -71365,7 +71365,7 @@
         {
             "level_0": "2018",
             "k": "nova_de_viseu",
-            "n_ec": 388.0,
+            "n_ec": 1388.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Nova De Viseu",
             "t_scheduled": 140.0,
             "t_done": 128.0,
@@ -71381,7 +71381,7 @@
         {
             "level_0": "2018",
             "k": "mar_a_vista",
-            "n_ec": 389.0,
+            "n_ec": 1389.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Mar \u00c0 Vista",
             "t_scheduled": 78.0,
             "t_done": 78.0,
@@ -71397,7 +71397,7 @@
         {
             "level_0": "2018",
             "k": "macedo",
-            "n_ec": 390.0,
+            "n_ec": 1390.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Macedo",
             "t_scheduled": 76.0,
             "t_done": 75.0,
@@ -71413,7 +71413,7 @@
         {
             "level_0": "2018",
             "k": "sao_joao",
-            "n_ec": 391.0,
+            "n_ec": 1391.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o S\u00e3o Jo\u00e3o",
             "t_scheduled": 192.0,
             "t_done": 187.0,
@@ -71429,7 +71429,7 @@
         {
             "level_0": "2018",
             "k": "forus",
-            "n_ec": 392.0,
+            "n_ec": 1392.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Forus",
             "t_scheduled": 29.0,
             "t_done": 28.0,
@@ -71445,7 +71445,7 @@
         {
             "level_0": "2018",
             "k": "ecodrive",
-            "n_ec": 393.0,
+            "n_ec": 1393.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Ecodrive",
             "t_scheduled": 63.0,
             "t_done": 62.0,
@@ -71461,7 +71461,7 @@
         {
             "level_0": "2018",
             "k": "cardal",
-            "n_ec": 394.0,
+            "n_ec": 1394.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Cardal",
             "t_scheduled": 57.0,
             "t_done": 56.0,
@@ -71477,7 +71477,7 @@
         {
             "level_0": "2018",
             "k": "monte_gordo",
-            "n_ec": 395.0,
+            "n_ec": 1395.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Monte Gordo",
             "t_scheduled": 150.0,
             "t_done": 145.0,
@@ -71493,7 +71493,7 @@
         {
             "level_0": "2018",
             "k": "vicentina",
-            "n_ec": 396.0,
+            "n_ec": 1396.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Vicentina",
             "t_scheduled": 119.0,
             "t_done": 116.0,
@@ -71509,7 +71509,7 @@
         {
             "level_0": "2018",
             "k": "ferrara",
-            "n_ec": 397.0,
+            "n_ec": 1397.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Ferrara",
             "t_scheduled": 113.0,
             "t_done": 112.0,
@@ -71525,7 +71525,7 @@
         {
             "level_0": "2018",
             "k": "estacao",
-            "n_ec": 398.0,
+            "n_ec": 1398.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Esta\u00e7\u00e3o",
             "t_scheduled": 114.0,
             "t_done": 109.0,
@@ -71541,7 +71541,7 @@
         {
             "level_0": "2018",
             "k": "arca_d'agua",
-            "n_ec": 399.0,
+            "n_ec": 1399.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Arca D'\u00c1gua",
             "t_scheduled": 78.0,
             "t_done": 77.0,
@@ -71557,7 +71557,7 @@
         {
             "level_0": "2018",
             "k": "a_sebastiana",
-            "n_ec": 400.0,
+            "n_ec": 1400.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o A Sebastiana",
             "t_scheduled": 99.0,
             "t_done": 99.0,
@@ -71573,7 +71573,7 @@
         {
             "level_0": "2018",
             "k": "alverca_rio",
-            "n_ec": 401.0,
+            "n_ec": 1401.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Alverca Rio",
             "t_scheduled": 135.0,
             "t_done": 131.0,
@@ -71589,7 +71589,7 @@
         {
             "level_0": "2018",
             "k": "origens",
-            "n_ec": 403.0,
+            "n_ec": 1403.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Origens",
             "t_scheduled": 72.0,
             "t_done": 72.0,
@@ -71605,7 +71605,7 @@
         {
             "level_0": "2018",
             "k": "5_estrelas",
-            "n_ec": 404.0,
+            "n_ec": 1404.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o 5 Estrelas",
             "t_scheduled": 33.0,
             "t_done": 33.0,
@@ -71621,7 +71621,7 @@
         {
             "level_0": "2018",
             "k": "azurva",
-            "n_ec": 405.0,
+            "n_ec": 1405.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Azurva",
             "t_scheduled": 36.0,
             "t_done": 35.0,
@@ -71637,7 +71637,7 @@
         {
             "level_0": "2018",
             "k": "quinta_do_conde",
-            "n_ec": 406.0,
+            "n_ec": 1406.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Quinta Do Conde",
             "t_scheduled": 63.0,
             "t_done": 63.0,
@@ -71653,7 +71653,7 @@
         {
             "level_0": "2018",
             "k": "vila_serena",
-            "n_ec": 407.0,
+            "n_ec": 1407.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Vila Serena",
             "t_scheduled": 82.0,
             "t_done": 81.0,
@@ -71669,7 +71669,7 @@
         {
             "level_0": "2018",
             "k": "novabela",
-            "n_ec": 408.0,
+            "n_ec": 1408.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Novabela",
             "t_scheduled": 66.0,
             "t_done": 66.0,
@@ -71685,7 +71685,7 @@
         {
             "level_0": "2018",
             "k": "75agv",
-            "n_ec": 410.0,
+            "n_ec": 1410.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o 75agv",
             "t_scheduled": 135.0,
             "t_done": 132.0,
@@ -71701,7 +71701,7 @@
         {
             "level_0": "2018",
             "k": "fim_da_linha",
-            "n_ec": 411.0,
+            "n_ec": 1411.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Fim Da Linha",
             "t_scheduled": 40.0,
             "t_done": 40.0,
@@ -71717,7 +71717,7 @@
         {
             "level_0": "2018",
             "k": "castanheira_do_ribatejo",
-            "n_ec": 412.0,
+            "n_ec": 1412.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Castanheira Do Ribatejo",
             "t_scheduled": 29.0,
             "t_done": 29.0,
@@ -71733,7 +71733,7 @@
         {
             "level_0": "2018",
             "k": "novazezere",
-            "n_ec": 413.0,
+            "n_ec": 1413.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Novaz\u00eazere",
             "t_scheduled": 44.0,
             "t_done": 43.0,
@@ -71749,7 +71749,7 @@
         {
             "level_0": "2018",
             "k": "dos_lombos",
-            "n_ec": 414.0,
+            "n_ec": 1414.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Dos Lombos",
             "t_scheduled": 16.0,
             "t_done": 16.0,
@@ -71765,7 +71765,7 @@
         {
             "level_0": "2018",
             "k": "arede",
-            "n_ec": 415.0,
+            "n_ec": 1415.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Arede",
             "t_scheduled": 30.0,
             "t_done": 30.0,
@@ -71781,7 +71781,7 @@
         {
             "level_0": "2018",
             "k": "nova_fafe",
-            "n_ec": 416.0,
+            "n_ec": 1416.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Nova Fafe",
             "t_scheduled": 33.0,
             "t_done": 33.0,
@@ -71797,7 +71797,7 @@
         {
             "level_0": "2018",
             "k": "royal",
-            "n_ec": 417.0,
+            "n_ec": 1417.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Royal",
             "t_scheduled": 46.0,
             "t_done": 44.0,
@@ -71813,7 +71813,7 @@
         {
             "level_0": "2018",
             "k": "casquilhos",
-            "n_ec": 419.0,
+            "n_ec": 1419.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Casquilhos",
             "t_scheduled": 21.0,
             "t_done": 21.0,
@@ -71829,7 +71829,7 @@
         {
             "level_0": "2018",
             "k": "road_safety",
-            "n_ec": 421.0,
+            "n_ec": 1421.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Road Safety",
             "t_scheduled": 17.0,
             "t_done": 17.0,
@@ -71845,7 +71845,7 @@
         {
             "level_0": "2018",
             "k": "sao_jose",
-            "n_ec": 422.0,
+            "n_ec": 1422.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o S\u00e3o Jos\u00e9",
             "t_scheduled": 9.0,
             "t_done": 9.0,
@@ -71861,7 +71861,7 @@
         {
             "level_0": "2018",
             "k": "cacem",
-            "n_ec": 424.0,
+            "n_ec": 1424.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Cac\u00e9m",
             "t_scheduled": 2.0,
             "t_done": 2.0,
@@ -71877,7 +71877,7 @@
         {
             "level_0": "2018",
             "k": "gondomar_douro",
-            "n_ec": 425.0,
+            "n_ec": 1425.0,
             "name_raw": "Escola De Condu\u00e7\u00e3o Gondomar Douro",
             "t_scheduled": 0.0,
             "t_done": 0.0,
@@ -71893,7 +71893,7 @@
         {
             "level_0": "2018",
             "k": "regimento_de_sapadores_bombeiros_de_lisboa",
-            "n_ec": 6.0,
+            "n_ec": 3006.0,
             "name_raw": "Escola Do Regimento De Sapadores Bombeiros De Lisboa",
             "t_scheduled": 27.0,
             "t_done": 25.0,
@@ -72852,7 +72852,7 @@
         },
         {
             "level_0": "2019",
-            "k": "\"portalegrense\"",
+            "k": "portalegrense",
             "n_ec": 78,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O \"PORTALEGRENSE\"",
             "t_scheduled": 199.0,
@@ -75796,7 +75796,7 @@
         },
         {
             "level_0": "2019",
-            "k": "\"a_ideal_de_ovar\"",
+            "k": "a_ideal_de_ovar",
             "n_ec": 415,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O \"A IDEAL DE OVAR\"",
             "t_scheduled": 101.0,
@@ -76324,7 +76324,7 @@
         },
         {
             "level_0": "2019",
-            "k": "\"_vanessa_\"",
+            "k": "_vanessa_",
             "n_ec": 452,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O \" VANESSA \"",
             "t_scheduled": 236.0,
@@ -91156,7 +91156,7 @@
         },
         {
             "level_0": "2020",
-            "k": "\"portalegrense\"",
+            "k": "portalegrense",
             "n_ec": 78,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O \"PORTALEGRENSE\"",
             "t_scheduled": 238.0,
@@ -94068,7 +94068,7 @@
         },
         {
             "level_0": "2020",
-            "k": "\"a_ideal_de_ovar\"",
+            "k": "a_ideal_de_ovar",
             "n_ec": 415,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O \"A IDEAL DE OVAR\"",
             "t_scheduled": 108.0,
@@ -94596,7 +94596,7 @@
         },
         {
             "level_0": "2020",
-            "k": "\"_vanessa_\"",
+            "k": "_vanessa_",
             "n_ec": 452,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O \" VANESSA \"",
             "t_scheduled": 260.0,
