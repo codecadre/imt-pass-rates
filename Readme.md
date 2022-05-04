@@ -11,17 +11,23 @@ This was originally done for [passaprimeira.xyz](https://www.passaprimeira.xyz)
 If you want to read more about how a freedom of information act might have helped release this data or not, check [my blog](https://www.flaviosousa.co/pedido-accesso-dados-publicos/) for some background story.
 
 ## Install
-`pip3 install -r requirements.txt`
+
+```
+pip3 install -r requirements.txt
+```
 
 ## Run
-`~/.local/bin/jupyter-lab`
+
+```
+~/.local/bin/jupyter-lab
+```
 
 ## How to use it
 
 The entire data set can be found in
 
-- [`data.json` ](result.json)
-- `data.pkl`: Check `demo.ipynb` for a quick tour of the data.
+- [`parsed-data/db.json` ](result.json)
+- `parsed-data/db.pkl`: Check `demo.ipynb` for a quick tour of the data.
 
 ## How to reproduce this:
 
