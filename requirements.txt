@@ -1,0 +1,4 @@
+jupyterlab
+tabula-py
+unidecode
+matplotlib
