@@ -32,3 +32,10 @@ The entire data set can be found in
 ## How to reproduce this:
 
 Check [`parse.ipynb`](parse.ipynb).
+
+## Licence
+
+TODO
+
+GPL2 maybe
+MIT Maybe
