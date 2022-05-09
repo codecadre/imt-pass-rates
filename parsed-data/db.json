@@ -441,7 +441,7 @@
         },
         {
             "level_0": "2015",
-            "k": "de-benfica-00028",
+            "k": "benfica-00028",
             "nec": 28,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Benfica",
             "t_scheduled": 87.0,
@@ -1817,7 +1817,7 @@
         },
         {
             "level_0": "2015",
-            "k": "de-alges-00149",
+            "k": "alges-00149",
             "nec": 149,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Alg\u00e9s",
             "t_scheduled": 198.0,
@@ -2185,7 +2185,7 @@
         },
         {
             "level_0": "2015",
-            "k": "de-santarem-00201",
+            "k": "santarem-00201",
             "nec": 201,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Santar\u00e9m",
             "t_scheduled": 199.0,
@@ -2281,7 +2281,7 @@
         },
         {
             "level_0": "2015",
-            "k": "de-queluz-00210",
+            "k": "queluz-00210",
             "nec": 210,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Queluz",
             "t_scheduled": 194.0,
@@ -2457,7 +2457,7 @@
         },
         {
             "level_0": "2015",
-            "k": "da-amadora-00237",
+            "k": "amadora-00237",
             "nec": 237,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Amadora",
             "t_scheduled": 222.0,
@@ -2473,7 +2473,7 @@
         },
         {
             "level_0": "2015",
-            "k": "de-alvaiazere-00239",
+            "k": "alvaiazere-00239",
             "nec": 239,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Alvai\u00e1zere",
             "t_scheduled": 82.0,
@@ -2521,7 +2521,7 @@
         },
         {
             "level_0": "2015",
-            "k": "da-mealhada-00243",
+            "k": "mealhada-00243",
             "nec": 243,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Mealhada",
             "t_scheduled": 147.0,
@@ -2825,7 +2825,7 @@
         },
         {
             "level_0": "2015",
-            "k": "de-sousel-00296",
+            "k": "sousel-00296",
             "nec": 296,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Sousel",
             "t_scheduled": 42.0,
@@ -2889,7 +2889,7 @@
         },
         {
             "level_0": "2015",
-            "k": "de-redondo-00301",
+            "k": "redondo-00301",
             "nec": 301,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Redondo",
             "t_scheduled": 72.0,
@@ -3305,7 +3305,7 @@
         },
         {
             "level_0": "2015",
-            "k": "da-figueirinha-fhr-00342",
+            "k": "figueirinha-fhr-00342",
             "nec": 342,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Figueirinha Fhr",
             "t_scheduled": 209.0,
@@ -3497,7 +3497,7 @@
         },
         {
             "level_0": "2015",
-            "k": "de-nelas-00367",
+            "k": "nelas-00367",
             "nec": 367,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Nelas",
             "t_scheduled": 125.0,
@@ -3817,7 +3817,7 @@
         },
         {
             "level_0": "2015",
-            "k": "da-penha-00388",
+            "k": "penha-00388",
             "nec": 388,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Penha",
             "t_scheduled": 510.0,
@@ -4281,7 +4281,7 @@
         },
         {
             "level_0": "2015",
-            "k": "da-maia-00420",
+            "k": "maia-00420",
             "nec": 420,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Maia",
             "t_scheduled": 178.0,
@@ -4585,7 +4585,7 @@
         },
         {
             "level_0": "2015",
-            "k": "de-pombal-00441",
+            "k": "pombal-00441",
             "nec": 441,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Pombal",
             "t_scheduled": 178.0,
@@ -5097,7 +5097,7 @@
         },
         {
             "level_0": "2015",
-            "k": "de-baiao-00474",
+            "k": "baiao-00474",
             "nec": 474,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Bai\u00e3o",
             "t_scheduled": 203.0,
@@ -5161,7 +5161,7 @@
         },
         {
             "level_0": "2015",
-            "k": "de-palmela-00478",
+            "k": "palmela-00478",
             "nec": 478,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Palmela",
             "t_scheduled": 196.0,
@@ -5369,7 +5369,7 @@
         },
         {
             "level_0": "2015",
-            "k": "de-lindaavelha-00492",
+            "k": "lindaavelha-00492",
             "nec": 492,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Linda-A-Velha",
             "t_scheduled": 207.0,
@@ -5689,7 +5689,7 @@
         },
         {
             "level_0": "2015",
-            "k": "da-urbe-00513",
+            "k": "urbe-00513",
             "nec": 513,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Urbe",
             "t_scheduled": 76.0,
@@ -6169,7 +6169,7 @@
         },
         {
             "level_0": "2015",
-            "k": "da-lourinha-00543",
+            "k": "lourinha-00543",
             "nec": 543,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Lourinh\u00e3",
             "t_scheduled": 142.0,
@@ -6521,7 +6521,7 @@
         },
         {
             "level_0": "2015",
-            "k": "de-tarouca-00565",
+            "k": "tarouca-00565",
             "nec": 565,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Tarouca",
             "t_scheduled": 145.0,
@@ -7417,7 +7417,7 @@
         },
         {
             "level_0": "2015",
-            "k": "de-cavaleira-00630",
+            "k": "cavaleira-00630",
             "nec": 630,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Cavaleira",
             "t_scheduled": 39.0,
@@ -8313,7 +8313,7 @@
         },
         {
             "level_0": "2015",
-            "k": "da-maceira-00694",
+            "k": "maceira-00694",
             "nec": 694,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Maceira",
             "t_scheduled": 245.0,
@@ -8377,7 +8377,7 @@
         },
         {
             "level_0": "2015",
-            "k": "da-longra-00698",
+            "k": "longra-00698",
             "nec": 698,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Longra",
             "t_scheduled": 257.0,
@@ -8617,7 +8617,7 @@
         },
         {
             "level_0": "2015",
-            "k": "da-tocha-00714",
+            "k": "tocha-00714",
             "nec": 714,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Tocha",
             "t_scheduled": 58.0,
@@ -8777,7 +8777,7 @@
         },
         {
             "level_0": "2015",
-            "k": "de-cernache-do-bonjardim-00725",
+            "k": "cernache-do-bonjardim-00725",
             "nec": 725,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Cernache Do Bonjardim",
             "t_scheduled": 105.0,
@@ -9033,7 +9033,7 @@
         },
         {
             "level_0": "2015",
-            "k": "de-lobao-00744",
+            "k": "lobao-00744",
             "nec": 744,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Lob\u00e3o",
             "t_scheduled": 110.0,
@@ -9385,7 +9385,7 @@
         },
         {
             "level_0": "2015",
-            "k": "de-alfragide-00770",
+            "k": "alfragide-00770",
             "nec": 770,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Alfragide",
             "t_scheduled": 155.0,
@@ -9577,7 +9577,7 @@
         },
         {
             "level_0": "2015",
-            "k": "da-guia-00782",
+            "k": "guia-00782",
             "nec": 782,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Guia",
             "t_scheduled": 146.0,
@@ -10265,7 +10265,7 @@
         },
         {
             "level_0": "2015",
-            "k": "da-vila-de-adoscunhados-00828",
+            "k": "vila-de-adoscunhados-00828",
             "nec": 828,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Vila De A-Dos-Cunhados",
             "t_scheduled": 120.0,
@@ -10441,7 +10441,7 @@
         },
         {
             "level_0": "2015",
-            "k": "de-avintes-00840",
+            "k": "avintes-00840",
             "nec": 840,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Avintes",
             "t_scheduled": 167.0,
@@ -10761,7 +10761,7 @@
         },
         {
             "level_0": "2015",
-            "k": "da-quinta-da-piedade-00861",
+            "k": "quinta-da-piedade-00861",
             "nec": 861,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Quinta Da Piedade",
             "t_scheduled": 215.0,
@@ -12857,7 +12857,7 @@
         },
         {
             "level_0": "2015",
-            "k": "de-tires-01020",
+            "k": "tires-01020",
             "nec": 1020,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Tires",
             "t_scheduled": 210.0,
@@ -13113,7 +13113,7 @@
         },
         {
             "level_0": "2015",
-            "k": "de-teixoso-01036",
+            "k": "teixoso-01036",
             "nec": 1036,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Teixoso",
             "t_scheduled": 103.0,
@@ -13993,7 +13993,7 @@
         },
         {
             "level_0": "2015",
-            "k": "de-canidelo-01098",
+            "k": "canidelo-01098",
             "nec": 1098,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Canidelo",
             "t_scheduled": 167.0,
@@ -15017,7 +15017,7 @@
         },
         {
             "level_0": "2015",
-            "k": "de-livracao-01167",
+            "k": "livracao-01167",
             "nec": 1167,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Livra\u00e7\u00e3o",
             "t_scheduled": 77.0,
@@ -16809,7 +16809,7 @@
         },
         {
             "level_0": "2015",
-            "k": "da-charneca-01285",
+            "k": "charneca-01285",
             "nec": 1285,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Charneca",
             "t_scheduled": 371.0,
@@ -17225,7 +17225,7 @@
         },
         {
             "level_0": "2015",
-            "k": "de-barrosas-01316",
+            "k": "barrosas-01316",
             "nec": 1316,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Barrosas",
             "t_scheduled": 49.0,
@@ -18025,7 +18025,7 @@
         },
         {
             "level_0": "2016",
-            "k": "de-benfica-00028",
+            "k": "benfica-00028",
             "nec": 28,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Benfica",
             "t_scheduled": 30.0,
@@ -19369,7 +19369,7 @@
         },
         {
             "level_0": "2016",
-            "k": "de-alges-00149",
+            "k": "alges-00149",
             "nec": 149,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Alg\u00e9s",
             "t_scheduled": 185.0,
@@ -19753,7 +19753,7 @@
         },
         {
             "level_0": "2016",
-            "k": "de-santarem-00201",
+            "k": "santarem-00201",
             "nec": 201,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Santar\u00e9m",
             "t_scheduled": 150.0,
@@ -19833,7 +19833,7 @@
         },
         {
             "level_0": "2016",
-            "k": "de-queluz-00210",
+            "k": "queluz-00210",
             "nec": 210,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Queluz",
             "t_scheduled": 181.0,
@@ -20009,7 +20009,7 @@
         },
         {
             "level_0": "2016",
-            "k": "da-amadora-00237",
+            "k": "amadora-00237",
             "nec": 237,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Amadora",
             "t_scheduled": 192.0,
@@ -20025,7 +20025,7 @@
         },
         {
             "level_0": "2016",
-            "k": "de-alvaiazere-00239",
+            "k": "alvaiazere-00239",
             "nec": 239,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Alvai\u00e1zere",
             "t_scheduled": 104.0,
@@ -20073,7 +20073,7 @@
         },
         {
             "level_0": "2016",
-            "k": "da-mealhada-00243",
+            "k": "mealhada-00243",
             "nec": 243,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Mealhada",
             "t_scheduled": 107.0,
@@ -20361,7 +20361,7 @@
         },
         {
             "level_0": "2016",
-            "k": "de-sousel-00296",
+            "k": "sousel-00296",
             "nec": 296,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Sousel",
             "t_scheduled": 48.0,
@@ -20425,7 +20425,7 @@
         },
         {
             "level_0": "2016",
-            "k": "de-redondo-00301",
+            "k": "redondo-00301",
             "nec": 301,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Redondo",
             "t_scheduled": 64.0,
@@ -20841,7 +20841,7 @@
         },
         {
             "level_0": "2016",
-            "k": "da-figueirinha-fhr-00342",
+            "k": "figueirinha-fhr-00342",
             "nec": 342,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Figueirinha Fhr",
             "t_scheduled": 203.0,
@@ -21049,7 +21049,7 @@
         },
         {
             "level_0": "2016",
-            "k": "de-nelas-00367",
+            "k": "nelas-00367",
             "nec": 367,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Nelas",
             "t_scheduled": 169.0,
@@ -21337,7 +21337,7 @@
         },
         {
             "level_0": "2016",
-            "k": "da-penha-00388",
+            "k": "penha-00388",
             "nec": 388,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Penha",
             "t_scheduled": 375.0,
@@ -21801,7 +21801,7 @@
         },
         {
             "level_0": "2016",
-            "k": "da-maia-00420",
+            "k": "maia-00420",
             "nec": 420,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Maia",
             "t_scheduled": 204.0,
@@ -22089,7 +22089,7 @@
         },
         {
             "level_0": "2016",
-            "k": "de-pombal-00441",
+            "k": "pombal-00441",
             "nec": 441,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Pombal",
             "t_scheduled": 206.0,
@@ -22585,7 +22585,7 @@
         },
         {
             "level_0": "2016",
-            "k": "de-baiao-00474",
+            "k": "baiao-00474",
             "nec": 474,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Bai\u00e3o",
             "t_scheduled": 160.0,
@@ -22649,7 +22649,7 @@
         },
         {
             "level_0": "2016",
-            "k": "de-palmela-00478",
+            "k": "palmela-00478",
             "nec": 478,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Palmela",
             "t_scheduled": 175.0,
@@ -22857,7 +22857,7 @@
         },
         {
             "level_0": "2016",
-            "k": "de-lindaavelha-00492",
+            "k": "lindaavelha-00492",
             "nec": 492,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Linda-A-Velha",
             "t_scheduled": 179.0,
@@ -23177,7 +23177,7 @@
         },
         {
             "level_0": "2016",
-            "k": "da-urbe-00513",
+            "k": "urbe-00513",
             "nec": 513,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Urbe",
             "t_scheduled": 87.0,
@@ -23657,7 +23657,7 @@
         },
         {
             "level_0": "2016",
-            "k": "da-lourinha-00543",
+            "k": "lourinha-00543",
             "nec": 543,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Lourinh\u00e3",
             "t_scheduled": 160.0,
@@ -23993,7 +23993,7 @@
         },
         {
             "level_0": "2016",
-            "k": "de-tarouca-00565",
+            "k": "tarouca-00565",
             "nec": 565,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Tarouca",
             "t_scheduled": 154.0,
@@ -24905,7 +24905,7 @@
         },
         {
             "level_0": "2016",
-            "k": "de-cavaleira-00630",
+            "k": "cavaleira-00630",
             "nec": 630,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Cavaleira",
             "t_scheduled": 39.0,
@@ -25801,7 +25801,7 @@
         },
         {
             "level_0": "2016",
-            "k": "da-maceira-00694",
+            "k": "maceira-00694",
             "nec": 694,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Maceira",
             "t_scheduled": 244.0,
@@ -25865,7 +25865,7 @@
         },
         {
             "level_0": "2016",
-            "k": "da-longra-00698",
+            "k": "longra-00698",
             "nec": 698,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Longra",
             "t_scheduled": 217.0,
@@ -26105,7 +26105,7 @@
         },
         {
             "level_0": "2016",
-            "k": "da-tocha-00714",
+            "k": "tocha-00714",
             "nec": 714,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Tocha",
             "t_scheduled": 56.0,
@@ -26265,7 +26265,7 @@
         },
         {
             "level_0": "2016",
-            "k": "de-cernache-do-bonjardim-00725",
+            "k": "cernache-do-bonjardim-00725",
             "nec": 725,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Cernache Do Bonjardim",
             "t_scheduled": 144.0,
@@ -26521,7 +26521,7 @@
         },
         {
             "level_0": "2016",
-            "k": "de-lobao-00744",
+            "k": "lobao-00744",
             "nec": 744,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Lob\u00e3o",
             "t_scheduled": 71.0,
@@ -26873,7 +26873,7 @@
         },
         {
             "level_0": "2016",
-            "k": "de-alfragide-00770",
+            "k": "alfragide-00770",
             "nec": 770,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Alfragide",
             "t_scheduled": 146.0,
@@ -27049,7 +27049,7 @@
         },
         {
             "level_0": "2016",
-            "k": "da-guia-00782",
+            "k": "guia-00782",
             "nec": 782,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Guia",
             "t_scheduled": 166.0,
@@ -27737,7 +27737,7 @@
         },
         {
             "level_0": "2016",
-            "k": "da-vila-de-adoscunhados-00828",
+            "k": "vila-de-adoscunhados-00828",
             "nec": 828,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Vila De A-Dos-Cunhados",
             "t_scheduled": 87.0,
@@ -27913,7 +27913,7 @@
         },
         {
             "level_0": "2016",
-            "k": "de-avintes-00840",
+            "k": "avintes-00840",
             "nec": 840,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Avintes",
             "t_scheduled": 172.0,
@@ -28233,7 +28233,7 @@
         },
         {
             "level_0": "2016",
-            "k": "da-quinta-da-piedade-00861",
+            "k": "quinta-da-piedade-00861",
             "nec": 861,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Quinta Da Piedade",
             "t_scheduled": 200.0,
@@ -30297,7 +30297,7 @@
         },
         {
             "level_0": "2016",
-            "k": "de-tires-01020",
+            "k": "tires-01020",
             "nec": 1020,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Tires",
             "t_scheduled": 176.0,
@@ -30553,7 +30553,7 @@
         },
         {
             "level_0": "2016",
-            "k": "de-teixoso-01036",
+            "k": "teixoso-01036",
             "nec": 1036,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Teixoso",
             "t_scheduled": 75.0,
@@ -31433,7 +31433,7 @@
         },
         {
             "level_0": "2016",
-            "k": "de-canidelo-01098",
+            "k": "canidelo-01098",
             "nec": 1098,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Canidelo",
             "t_scheduled": 169.0,
@@ -32425,7 +32425,7 @@
         },
         {
             "level_0": "2016",
-            "k": "de-livracao-01167",
+            "k": "livracao-01167",
             "nec": 1167,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Livra\u00e7\u00e3o",
             "t_scheduled": 69.0,
@@ -34201,7 +34201,7 @@
         },
         {
             "level_0": "2016",
-            "k": "da-charneca-01285",
+            "k": "charneca-01285",
             "nec": 1285,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Charneca",
             "t_scheduled": 430.0,
@@ -34633,7 +34633,7 @@
         },
         {
             "level_0": "2016",
-            "k": "de-barrosas-01316",
+            "k": "barrosas-01316",
             "nec": 1316,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Barrosas",
             "t_scheduled": 61.0,
@@ -35097,7 +35097,7 @@
         },
         {
             "level_0": "2016",
-            "k": "de-bustos-01348",
+            "k": "bustos-01348",
             "nec": 1348,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Bustos",
             "t_scheduled": 92.0,
@@ -35161,7 +35161,7 @@
         },
         {
             "level_0": "2016",
-            "k": "de-ramalde-01352",
+            "k": "ramalde-01352",
             "nec": 1352,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Ramalde",
             "t_scheduled": 21.0,
@@ -35321,7 +35321,7 @@
         },
         {
             "level_0": "2016",
-            "k": "de-ilhavo-01362",
+            "k": "ilhavo-01362",
             "nec": 1362,
             "name_raw": "Escola De Condu\u00e7\u00e3o De \u00cdlhavo",
             "t_scheduled": 12.0,
@@ -35353,7 +35353,7 @@
         },
         {
             "level_0": "2016",
-            "k": "da-costa-01365",
+            "k": "costa-01365",
             "nec": 1365,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Costa",
             "t_scheduled": 18.0,
@@ -35865,7 +35865,7 @@
         },
         {
             "level_0": "2017",
-            "k": "de-benfica-00028",
+            "k": "benfica-00028",
             "nec": 28,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Benfica",
             "t_scheduled": 179.0,
@@ -37161,7 +37161,7 @@
         },
         {
             "level_0": "2017",
-            "k": "de-alges-00149",
+            "k": "alges-00149",
             "nec": 149,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Alg\u00e9s",
             "t_scheduled": 151.0,
@@ -37545,7 +37545,7 @@
         },
         {
             "level_0": "2017",
-            "k": "de-santarem-00201",
+            "k": "santarem-00201",
             "nec": 201,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Santar\u00e9m",
             "t_scheduled": 189.0,
@@ -37609,7 +37609,7 @@
         },
         {
             "level_0": "2017",
-            "k": "de-queluz-00210",
+            "k": "queluz-00210",
             "nec": 210,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Queluz",
             "t_scheduled": 203.0,
@@ -37785,7 +37785,7 @@
         },
         {
             "level_0": "2017",
-            "k": "da-amadora-00237",
+            "k": "amadora-00237",
             "nec": 237,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Amadora",
             "t_scheduled": 237.0,
@@ -37801,7 +37801,7 @@
         },
         {
             "level_0": "2017",
-            "k": "de-alvaiazere-00239",
+            "k": "alvaiazere-00239",
             "nec": 239,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Alvai\u00e1zere",
             "t_scheduled": 108.0,
@@ -37849,7 +37849,7 @@
         },
         {
             "level_0": "2017",
-            "k": "da-mealhada-00243",
+            "k": "mealhada-00243",
             "nec": 243,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Mealhada",
             "t_scheduled": 135.0,
@@ -38137,7 +38137,7 @@
         },
         {
             "level_0": "2017",
-            "k": "de-sousel-00296",
+            "k": "sousel-00296",
             "nec": 296,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Sousel",
             "t_scheduled": 47.0,
@@ -38201,7 +38201,7 @@
         },
         {
             "level_0": "2017",
-            "k": "de-redondo-00301",
+            "k": "redondo-00301",
             "nec": 301,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Redondo",
             "t_scheduled": 59.0,
@@ -38617,7 +38617,7 @@
         },
         {
             "level_0": "2017",
-            "k": "da-figueirinha-fhr-00342",
+            "k": "figueirinha-fhr-00342",
             "nec": 342,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Figueirinha Fhr",
             "t_scheduled": 213.0,
@@ -38825,7 +38825,7 @@
         },
         {
             "level_0": "2017",
-            "k": "de-nelas-00367",
+            "k": "nelas-00367",
             "nec": 367,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Nelas",
             "t_scheduled": 168.0,
@@ -39113,7 +39113,7 @@
         },
         {
             "level_0": "2017",
-            "k": "da-penha-00388",
+            "k": "penha-00388",
             "nec": 388,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Penha",
             "t_scheduled": 440.0,
@@ -39577,7 +39577,7 @@
         },
         {
             "level_0": "2017",
-            "k": "da-maia-00420",
+            "k": "maia-00420",
             "nec": 420,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Maia",
             "t_scheduled": 416.0,
@@ -39865,7 +39865,7 @@
         },
         {
             "level_0": "2017",
-            "k": "de-pombal-00441",
+            "k": "pombal-00441",
             "nec": 441,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Pombal",
             "t_scheduled": 193.0,
@@ -40345,7 +40345,7 @@
         },
         {
             "level_0": "2017",
-            "k": "de-baiao-00474",
+            "k": "baiao-00474",
             "nec": 474,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Bai\u00e3o",
             "t_scheduled": 168.0,
@@ -40409,7 +40409,7 @@
         },
         {
             "level_0": "2017",
-            "k": "de-palmela-00478",
+            "k": "palmela-00478",
             "nec": 478,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Palmela",
             "t_scheduled": 268.0,
@@ -40617,7 +40617,7 @@
         },
         {
             "level_0": "2017",
-            "k": "de-lindaavelha-00492",
+            "k": "lindaavelha-00492",
             "nec": 492,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Linda-A-Velha",
             "t_scheduled": 225.0,
@@ -40921,7 +40921,7 @@
         },
         {
             "level_0": "2017",
-            "k": "da-urbe-00513",
+            "k": "urbe-00513",
             "nec": 513,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Urbe",
             "t_scheduled": 128.0,
@@ -41401,7 +41401,7 @@
         },
         {
             "level_0": "2017",
-            "k": "da-lourinha-00543",
+            "k": "lourinha-00543",
             "nec": 543,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Lourinh\u00e3",
             "t_scheduled": 146.0,
@@ -41737,7 +41737,7 @@
         },
         {
             "level_0": "2017",
-            "k": "de-tarouca-00565",
+            "k": "tarouca-00565",
             "nec": 565,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Tarouca",
             "t_scheduled": 154.0,
@@ -42633,7 +42633,7 @@
         },
         {
             "level_0": "2017",
-            "k": "de-cavaleira-00630",
+            "k": "cavaleira-00630",
             "nec": 630,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Cavaleira",
             "t_scheduled": 61.0,
@@ -43497,7 +43497,7 @@
         },
         {
             "level_0": "2017",
-            "k": "da-maceira-00694",
+            "k": "maceira-00694",
             "nec": 694,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Maceira",
             "t_scheduled": 162.0,
@@ -43561,7 +43561,7 @@
         },
         {
             "level_0": "2017",
-            "k": "da-longra-00698",
+            "k": "longra-00698",
             "nec": 698,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Longra",
             "t_scheduled": 192.0,
@@ -43801,7 +43801,7 @@
         },
         {
             "level_0": "2017",
-            "k": "da-tocha-00714",
+            "k": "tocha-00714",
             "nec": 714,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Tocha",
             "t_scheduled": 63.0,
@@ -43961,7 +43961,7 @@
         },
         {
             "level_0": "2017",
-            "k": "de-cernache-do-bonjardim-00725",
+            "k": "cernache-do-bonjardim-00725",
             "nec": 725,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Cernache Do Bonjardim",
             "t_scheduled": 116.0,
@@ -44217,7 +44217,7 @@
         },
         {
             "level_0": "2017",
-            "k": "de-lobao-00744",
+            "k": "lobao-00744",
             "nec": 744,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Lob\u00e3o",
             "t_scheduled": 81.0,
@@ -44569,7 +44569,7 @@
         },
         {
             "level_0": "2017",
-            "k": "de-alfragide-00770",
+            "k": "alfragide-00770",
             "nec": 770,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Alfragide",
             "t_scheduled": 173.0,
@@ -44745,7 +44745,7 @@
         },
         {
             "level_0": "2017",
-            "k": "da-guia-00782",
+            "k": "guia-00782",
             "nec": 782,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Guia",
             "t_scheduled": 154.0,
@@ -45433,7 +45433,7 @@
         },
         {
             "level_0": "2017",
-            "k": "da-vila-de-adoscunhados-00828",
+            "k": "vila-de-adoscunhados-00828",
             "nec": 828,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Vila De A-Dos-Cunhados",
             "t_scheduled": 128.0,
@@ -45609,7 +45609,7 @@
         },
         {
             "level_0": "2017",
-            "k": "de-avintes-00840",
+            "k": "avintes-00840",
             "nec": 840,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Avintes",
             "t_scheduled": 179.0,
@@ -45913,7 +45913,7 @@
         },
         {
             "level_0": "2017",
-            "k": "da-quinta-da-piedade-00861",
+            "k": "quinta-da-piedade-00861",
             "nec": 861,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Quinta Da Piedade",
             "t_scheduled": 235.0,
@@ -47929,7 +47929,7 @@
         },
         {
             "level_0": "2017",
-            "k": "de-tires-01020",
+            "k": "tires-01020",
             "nec": 1020,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Tires",
             "t_scheduled": 197.0,
@@ -48185,7 +48185,7 @@
         },
         {
             "level_0": "2017",
-            "k": "de-teixoso-01036",
+            "k": "teixoso-01036",
             "nec": 1036,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Teixoso",
             "t_scheduled": 75.0,
@@ -49065,7 +49065,7 @@
         },
         {
             "level_0": "2017",
-            "k": "de-canidelo-01098",
+            "k": "canidelo-01098",
             "nec": 1098,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Canidelo",
             "t_scheduled": 216.0,
@@ -50073,7 +50073,7 @@
         },
         {
             "level_0": "2017",
-            "k": "de-livracao-01167",
+            "k": "livracao-01167",
             "nec": 1167,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Livra\u00e7\u00e3o",
             "t_scheduled": 70.0,
@@ -51833,7 +51833,7 @@
         },
         {
             "level_0": "2017",
-            "k": "da-charneca-01285",
+            "k": "charneca-01285",
             "nec": 1285,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Charneca",
             "t_scheduled": 454.0,
@@ -52265,7 +52265,7 @@
         },
         {
             "level_0": "2017",
-            "k": "de-barrosas-01316",
+            "k": "barrosas-01316",
             "nec": 1316,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Barrosas",
             "t_scheduled": 39.0,
@@ -52745,7 +52745,7 @@
         },
         {
             "level_0": "2017",
-            "k": "de-bustos-01348",
+            "k": "bustos-01348",
             "nec": 1348,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Bustos",
             "t_scheduled": 197.0,
@@ -52809,7 +52809,7 @@
         },
         {
             "level_0": "2017",
-            "k": "de-ramalde-01352",
+            "k": "ramalde-01352",
             "nec": 1352,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Ramalde",
             "t_scheduled": 103.0,
@@ -52969,7 +52969,7 @@
         },
         {
             "level_0": "2017",
-            "k": "de-ilhavo-01362",
+            "k": "ilhavo-01362",
             "nec": 1362,
             "name_raw": "Escola De Condu\u00e7\u00e3o De \u00cdlhavo",
             "t_scheduled": 106.0,
@@ -53017,7 +53017,7 @@
         },
         {
             "level_0": "2017",
-            "k": "da-costa-01365",
+            "k": "costa-01365",
             "nec": 1365,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Costa",
             "t_scheduled": 109.0,
@@ -53993,7 +53993,7 @@
         },
         {
             "level_0": "2018",
-            "k": "de-benfica-00028",
+            "k": "benfica-00028",
             "nec": 28,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Benfica",
             "t_scheduled": 242.0,
@@ -55273,7 +55273,7 @@
         },
         {
             "level_0": "2018",
-            "k": "de-alges-00149",
+            "k": "alges-00149",
             "nec": 149,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Alg\u00e9s",
             "t_scheduled": 191.0,
@@ -55641,7 +55641,7 @@
         },
         {
             "level_0": "2018",
-            "k": "de-santarem-00201",
+            "k": "santarem-00201",
             "nec": 201,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Santar\u00e9m",
             "t_scheduled": 138.0,
@@ -55705,7 +55705,7 @@
         },
         {
             "level_0": "2018",
-            "k": "de-queluz-00210",
+            "k": "queluz-00210",
             "nec": 210,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Queluz",
             "t_scheduled": 186.0,
@@ -55881,7 +55881,7 @@
         },
         {
             "level_0": "2018",
-            "k": "da-amadora-00237",
+            "k": "amadora-00237",
             "nec": 237,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Amadora",
             "t_scheduled": 246.0,
@@ -55897,7 +55897,7 @@
         },
         {
             "level_0": "2018",
-            "k": "de-alvaiazere-00239",
+            "k": "alvaiazere-00239",
             "nec": 239,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Alvai\u00e1zere",
             "t_scheduled": 116.0,
@@ -55929,7 +55929,7 @@
         },
         {
             "level_0": "2018",
-            "k": "da-mealhada-00243",
+            "k": "mealhada-00243",
             "nec": 243,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Mealhada",
             "t_scheduled": 171.0,
@@ -56217,7 +56217,7 @@
         },
         {
             "level_0": "2018",
-            "k": "de-sousel-00296",
+            "k": "sousel-00296",
             "nec": 296,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Sousel",
             "t_scheduled": 28.0,
@@ -56281,7 +56281,7 @@
         },
         {
             "level_0": "2018",
-            "k": "de-redondo-00301",
+            "k": "redondo-00301",
             "nec": 301,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Redondo",
             "t_scheduled": 51.0,
@@ -56697,7 +56697,7 @@
         },
         {
             "level_0": "2018",
-            "k": "da-figueirinha-fhr-00342",
+            "k": "figueirinha-fhr-00342",
             "nec": 342,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Figueirinha Fhr",
             "t_scheduled": 197.0,
@@ -56905,7 +56905,7 @@
         },
         {
             "level_0": "2018",
-            "k": "de-nelas-00367",
+            "k": "nelas-00367",
             "nec": 367,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Nelas",
             "t_scheduled": 184.0,
@@ -57209,7 +57209,7 @@
         },
         {
             "level_0": "2018",
-            "k": "da-penha-00388",
+            "k": "penha-00388",
             "nec": 388,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Penha",
             "t_scheduled": 403.0,
@@ -57657,7 +57657,7 @@
         },
         {
             "level_0": "2018",
-            "k": "da-maia-00420",
+            "k": "maia-00420",
             "nec": 420,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Maia",
             "t_scheduled": 524.0,
@@ -57945,7 +57945,7 @@
         },
         {
             "level_0": "2018",
-            "k": "de-pombal-00441",
+            "k": "pombal-00441",
             "nec": 441,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Pombal",
             "t_scheduled": 191.0,
@@ -58409,7 +58409,7 @@
         },
         {
             "level_0": "2018",
-            "k": "de-baiao-00474",
+            "k": "baiao-00474",
             "nec": 474,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Bai\u00e3o",
             "t_scheduled": 173.0,
@@ -58473,7 +58473,7 @@
         },
         {
             "level_0": "2018",
-            "k": "de-palmela-00478",
+            "k": "palmela-00478",
             "nec": 478,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Palmela",
             "t_scheduled": 227.0,
@@ -58681,7 +58681,7 @@
         },
         {
             "level_0": "2018",
-            "k": "de-lindaavelha-00492",
+            "k": "lindaavelha-00492",
             "nec": 492,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Linda-A-Velha",
             "t_scheduled": 248.0,
@@ -58985,7 +58985,7 @@
         },
         {
             "level_0": "2018",
-            "k": "da-urbe-00513",
+            "k": "urbe-00513",
             "nec": 513,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Urbe",
             "t_scheduled": 130.0,
@@ -59465,7 +59465,7 @@
         },
         {
             "level_0": "2018",
-            "k": "da-lourinha-00543",
+            "k": "lourinha-00543",
             "nec": 543,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Lourinh\u00e3",
             "t_scheduled": 141.0,
@@ -59801,7 +59801,7 @@
         },
         {
             "level_0": "2018",
-            "k": "de-tarouca-00565",
+            "k": "tarouca-00565",
             "nec": 565,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Tarouca",
             "t_scheduled": 160.0,
@@ -60665,7 +60665,7 @@
         },
         {
             "level_0": "2018",
-            "k": "de-cavaleira-00630",
+            "k": "cavaleira-00630",
             "nec": 630,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Cavaleira",
             "t_scheduled": 112.0,
@@ -61545,7 +61545,7 @@
         },
         {
             "level_0": "2018",
-            "k": "da-maceira-00694",
+            "k": "maceira-00694",
             "nec": 694,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Maceira",
             "t_scheduled": 169.0,
@@ -61609,7 +61609,7 @@
         },
         {
             "level_0": "2018",
-            "k": "da-longra-00698",
+            "k": "longra-00698",
             "nec": 698,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Longra",
             "t_scheduled": 218.0,
@@ -61849,7 +61849,7 @@
         },
         {
             "level_0": "2018",
-            "k": "da-tocha-00714",
+            "k": "tocha-00714",
             "nec": 714,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Tocha",
             "t_scheduled": 46.0,
@@ -62009,7 +62009,7 @@
         },
         {
             "level_0": "2018",
-            "k": "de-cernache-do-bonjardim-00725",
+            "k": "cernache-do-bonjardim-00725",
             "nec": 725,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Cernache Do Bonjardim",
             "t_scheduled": 119.0,
@@ -62265,7 +62265,7 @@
         },
         {
             "level_0": "2018",
-            "k": "de-lobao-00744",
+            "k": "lobao-00744",
             "nec": 744,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Lob\u00e3o",
             "t_scheduled": 71.0,
@@ -62617,7 +62617,7 @@
         },
         {
             "level_0": "2018",
-            "k": "de-alfragide-00770",
+            "k": "alfragide-00770",
             "nec": 770,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Alfragide",
             "t_scheduled": 205.0,
@@ -62793,7 +62793,7 @@
         },
         {
             "level_0": "2018",
-            "k": "da-guia-00782",
+            "k": "guia-00782",
             "nec": 782,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Guia",
             "t_scheduled": 127.0,
@@ -63481,7 +63481,7 @@
         },
         {
             "level_0": "2018",
-            "k": "da-vila-de-adoscunhados-00828",
+            "k": "vila-de-adoscunhados-00828",
             "nec": 828,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Vila De A-Dos-Cunhados",
             "t_scheduled": 109.0,
@@ -63657,7 +63657,7 @@
         },
         {
             "level_0": "2018",
-            "k": "de-avintes-00840",
+            "k": "avintes-00840",
             "nec": 840,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Avintes",
             "t_scheduled": 183.0,
@@ -63961,7 +63961,7 @@
         },
         {
             "level_0": "2018",
-            "k": "da-quinta-da-piedade-00861",
+            "k": "quinta-da-piedade-00861",
             "nec": 861,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Quinta Da Piedade",
             "t_scheduled": 242.0,
@@ -65945,7 +65945,7 @@
         },
         {
             "level_0": "2018",
-            "k": "de-tires-01020",
+            "k": "tires-01020",
             "nec": 1020,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Tires",
             "t_scheduled": 197.0,
@@ -66201,7 +66201,7 @@
         },
         {
             "level_0": "2018",
-            "k": "de-teixoso-01036",
+            "k": "teixoso-01036",
             "nec": 1036,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Teixoso",
             "t_scheduled": 85.0,
@@ -67081,7 +67081,7 @@
         },
         {
             "level_0": "2018",
-            "k": "de-canidelo-01098",
+            "k": "canidelo-01098",
             "nec": 1098,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Canidelo",
             "t_scheduled": 171.0,
@@ -68089,7 +68089,7 @@
         },
         {
             "level_0": "2018",
-            "k": "de-livracao-01167",
+            "k": "livracao-01167",
             "nec": 1167,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Livra\u00e7\u00e3o",
             "t_scheduled": 67.0,
@@ -69849,7 +69849,7 @@
         },
         {
             "level_0": "2018",
-            "k": "da-charneca-01285",
+            "k": "charneca-01285",
             "nec": 1285,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Charneca",
             "t_scheduled": 461.0,
@@ -70281,7 +70281,7 @@
         },
         {
             "level_0": "2018",
-            "k": "de-barrosas-01316",
+            "k": "barrosas-01316",
             "nec": 1316,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Barrosas",
             "t_scheduled": 21.0,
@@ -70729,7 +70729,7 @@
         },
         {
             "level_0": "2018",
-            "k": "de-bustos-01348",
+            "k": "bustos-01348",
             "nec": 1348,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Bustos",
             "t_scheduled": 67.0,
@@ -70793,7 +70793,7 @@
         },
         {
             "level_0": "2018",
-            "k": "de-ramalde-01352",
+            "k": "ramalde-01352",
             "nec": 1352,
             "name_raw": "Escola De Condu\u00e7\u00e3o De Ramalde",
             "t_scheduled": 177.0,
@@ -70953,7 +70953,7 @@
         },
         {
             "level_0": "2018",
-            "k": "de-ilhavo-01362",
+            "k": "ilhavo-01362",
             "nec": 1362,
             "name_raw": "Escola De Condu\u00e7\u00e3o De \u00cdlhavo",
             "t_scheduled": 116.0,
@@ -71001,7 +71001,7 @@
         },
         {
             "level_0": "2018",
-            "k": "da-costa-01365",
+            "k": "costa-01365",
             "nec": 1365,
             "name_raw": "Escola De Condu\u00e7\u00e3o Da Costa",
             "t_scheduled": 137.0,
@@ -72297,7 +72297,7 @@
         },
         {
             "level_0": "2019",
-            "k": "de-benfica-00028",
+            "k": "benfica-00028",
             "nec": 28,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DE BENFICA",
             "t_scheduled": 196.0,
@@ -73529,7 +73529,7 @@
         },
         {
             "level_0": "2019",
-            "k": "de-alges-00149",
+            "k": "alges-00149",
             "nec": 149,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DE ALG\u00c9S",
             "t_scheduled": 178.0,
@@ -73897,7 +73897,7 @@
         },
         {
             "level_0": "2019",
-            "k": "de-santarem-00201",
+            "k": "santarem-00201",
             "nec": 201,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DE SANTAR\u00c9M",
             "t_scheduled": 166.0,
@@ -73961,7 +73961,7 @@
         },
         {
             "level_0": "2019",
-            "k": "de-queluz-00210",
+            "k": "queluz-00210",
             "nec": 210,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DE QUELUZ",
             "t_scheduled": 196.0,
@@ -74137,7 +74137,7 @@
         },
         {
             "level_0": "2019",
-            "k": "da-amadora-00237",
+            "k": "amadora-00237",
             "nec": 237,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DA AMADORA",
             "t_scheduled": 221.0,
@@ -74153,7 +74153,7 @@
         },
         {
             "level_0": "2019",
-            "k": "de-alvaiazere-00239",
+            "k": "alvaiazere-00239",
             "nec": 239,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DE ALVAI\u00c1ZERE",
             "t_scheduled": 110.0,
@@ -74185,7 +74185,7 @@
         },
         {
             "level_0": "2019",
-            "k": "da-mealhada-00243",
+            "k": "mealhada-00243",
             "nec": 243,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DA MEALHADA",
             "t_scheduled": 177.0,
@@ -74473,7 +74473,7 @@
         },
         {
             "level_0": "2019",
-            "k": "de-sousel-00296",
+            "k": "sousel-00296",
             "nec": 296,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DE SOUSEL",
             "t_scheduled": 67.0,
@@ -74521,7 +74521,7 @@
         },
         {
             "level_0": "2019",
-            "k": "de-redondo-00301",
+            "k": "redondo-00301",
             "nec": 301,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DE REDONDO",
             "t_scheduled": 44.0,
@@ -74921,7 +74921,7 @@
         },
         {
             "level_0": "2019",
-            "k": "da-figueirinha-fhr-00342",
+            "k": "figueirinha-fhr-00342",
             "nec": 342,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DA FIGUEIRINHA FHR",
             "t_scheduled": 185.0,
@@ -75129,7 +75129,7 @@
         },
         {
             "level_0": "2019",
-            "k": "de-nelas-00367",
+            "k": "nelas-00367",
             "nec": 367,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DE NELAS",
             "t_scheduled": 175.0,
@@ -75433,7 +75433,7 @@
         },
         {
             "level_0": "2019",
-            "k": "da-penha-00388",
+            "k": "penha-00388",
             "nec": 388,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DA PENHA",
             "t_scheduled": 495.0,
@@ -75881,7 +75881,7 @@
         },
         {
             "level_0": "2019",
-            "k": "da-maia-00420",
+            "k": "maia-00420",
             "nec": 420,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DA MAIA",
             "t_scheduled": 338.0,
@@ -76169,7 +76169,7 @@
         },
         {
             "level_0": "2019",
-            "k": "de-pombal-00441",
+            "k": "pombal-00441",
             "nec": 441,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DE POMBAL",
             "t_scheduled": 189.0,
@@ -76649,7 +76649,7 @@
         },
         {
             "level_0": "2019",
-            "k": "de-baiao-00474",
+            "k": "baiao-00474",
             "nec": 474,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DE BAI\u00c3O",
             "t_scheduled": 192.0,
@@ -76713,7 +76713,7 @@
         },
         {
             "level_0": "2019",
-            "k": "de-palmela-00478",
+            "k": "palmela-00478",
             "nec": 478,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DE PALMELA",
             "t_scheduled": 247.0,
@@ -76921,7 +76921,7 @@
         },
         {
             "level_0": "2019",
-            "k": "de-lindaavelha-00492",
+            "k": "lindaavelha-00492",
             "nec": 492,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DE LINDA-A-VELHA",
             "t_scheduled": 278.0,
@@ -77225,7 +77225,7 @@
         },
         {
             "level_0": "2019",
-            "k": "da-urbe-00513",
+            "k": "urbe-00513",
             "nec": 513,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DA URBE",
             "t_scheduled": 112.0,
@@ -77705,7 +77705,7 @@
         },
         {
             "level_0": "2019",
-            "k": "da-lourinha-00543",
+            "k": "lourinha-00543",
             "nec": 543,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DA LOURINH\u00c3",
             "t_scheduled": 151.0,
@@ -78041,7 +78041,7 @@
         },
         {
             "level_0": "2019",
-            "k": "de-tarouca-00565",
+            "k": "tarouca-00565",
             "nec": 565,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DE TAROUCA",
             "t_scheduled": 179.0,
@@ -78889,7 +78889,7 @@
         },
         {
             "level_0": "2019",
-            "k": "de-cavaleira-00630",
+            "k": "cavaleira-00630",
             "nec": 630,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DE CAVALEIRA",
             "t_scheduled": 25.0,
@@ -79737,7 +79737,7 @@
         },
         {
             "level_0": "2019",
-            "k": "da-maceira-00694",
+            "k": "maceira-00694",
             "nec": 694,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DA MACEIRA",
             "t_scheduled": 156.0,
@@ -79801,7 +79801,7 @@
         },
         {
             "level_0": "2019",
-            "k": "da-longra-00698",
+            "k": "longra-00698",
             "nec": 698,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DA LONGRA",
             "t_scheduled": 189.0,
@@ -80041,7 +80041,7 @@
         },
         {
             "level_0": "2019",
-            "k": "da-tocha-00714",
+            "k": "tocha-00714",
             "nec": 714,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DA TOCHA",
             "t_scheduled": 50.0,
@@ -80201,7 +80201,7 @@
         },
         {
             "level_0": "2019",
-            "k": "de-cernache-do-bonjardim-00725",
+            "k": "cernache-do-bonjardim-00725",
             "nec": 725,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DE CERNACHE DO BONJARDIM",
             "t_scheduled": 135.0,
@@ -80457,7 +80457,7 @@
         },
         {
             "level_0": "2019",
-            "k": "de-lobao-00744",
+            "k": "lobao-00744",
             "nec": 744,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DE LOB\u00c3O",
             "t_scheduled": 73.0,
@@ -80793,7 +80793,7 @@
         },
         {
             "level_0": "2019",
-            "k": "de-alfragide-00770",
+            "k": "alfragide-00770",
             "nec": 770,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DE ALFRAGIDE",
             "t_scheduled": 208.0,
@@ -80969,7 +80969,7 @@
         },
         {
             "level_0": "2019",
-            "k": "da-guia-00782",
+            "k": "guia-00782",
             "nec": 782,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DA GUIA",
             "t_scheduled": 171.0,
@@ -81641,7 +81641,7 @@
         },
         {
             "level_0": "2019",
-            "k": "da-vila-de-adoscunhados-00828",
+            "k": "vila-de-adoscunhados-00828",
             "nec": 828,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DA VILA DE A-DOS-CUNHADOS",
             "t_scheduled": 118.0,
@@ -81817,7 +81817,7 @@
         },
         {
             "level_0": "2019",
-            "k": "de-avintes-00840",
+            "k": "avintes-00840",
             "nec": 840,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DE AVINTES",
             "t_scheduled": 177.0,
@@ -82105,7 +82105,7 @@
         },
         {
             "level_0": "2019",
-            "k": "da-quinta-da-piedade-00861",
+            "k": "quinta-da-piedade-00861",
             "nec": 861,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DA QUINTA DA PIEDADE",
             "t_scheduled": 238.0,
@@ -84073,7 +84073,7 @@
         },
         {
             "level_0": "2019",
-            "k": "de-tires-01020",
+            "k": "tires-01020",
             "nec": 1020,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DE TIRES",
             "t_scheduled": 247.0,
@@ -84329,7 +84329,7 @@
         },
         {
             "level_0": "2019",
-            "k": "de-teixoso-01036",
+            "k": "teixoso-01036",
             "nec": 1036,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DE TEIXOSO",
             "t_scheduled": 83.0,
@@ -84873,7 +84873,7 @@
         },
         {
             "level_0": "2019",
-            "k": "de-repeses-01075",
+            "k": "repeses-01075",
             "nec": 1075,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DE REPESES",
             "t_scheduled": 44.0,
@@ -85193,7 +85193,7 @@
         },
         {
             "level_0": "2019",
-            "k": "de-canidelo-01098",
+            "k": "canidelo-01098",
             "nec": 1098,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DE CANIDELO",
             "t_scheduled": 153.0,
@@ -86201,7 +86201,7 @@
         },
         {
             "level_0": "2019",
-            "k": "de-livracao-01167",
+            "k": "livracao-01167",
             "nec": 1167,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DE LIVRA\u00c7\u00c3O",
             "t_scheduled": 46.0,
@@ -87929,7 +87929,7 @@
         },
         {
             "level_0": "2019",
-            "k": "da-charneca-01285",
+            "k": "charneca-01285",
             "nec": 1285,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DA CHARNECA",
             "t_scheduled": 562.0,
@@ -88361,7 +88361,7 @@
         },
         {
             "level_0": "2019",
-            "k": "de-barrosas-01316",
+            "k": "barrosas-01316",
             "nec": 1316,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DE BARROSAS",
             "t_scheduled": 16.0,
@@ -88825,7 +88825,7 @@
         },
         {
             "level_0": "2019",
-            "k": "de-bustos-01348",
+            "k": "bustos-01348",
             "nec": 1348,
             "name_raw": "Escola de Condu\u00e7\u00e3o de Bustos",
             "t_scheduled": 172.0,
@@ -88889,7 +88889,7 @@
         },
         {
             "level_0": "2019",
-            "k": "de-ramalde-01352",
+            "k": "ramalde-01352",
             "nec": 1352,
             "name_raw": "Escola de Condu\u00e7\u00e3o de Ramalde",
             "t_scheduled": 148.0,
@@ -89049,7 +89049,7 @@
         },
         {
             "level_0": "2019",
-            "k": "de-ilhavo-01362",
+            "k": "ilhavo-01362",
             "nec": 1362,
             "name_raw": "Escola de Condu\u00e7\u00e3o de \u00cdlhavo",
             "t_scheduled": 89.0,
@@ -89097,7 +89097,7 @@
         },
         {
             "level_0": "2019",
-            "k": "da-costa-01365",
+            "k": "costa-01365",
             "nec": 1365,
             "name_raw": "Escola de Condu\u00e7\u00e3o da Costa",
             "t_scheduled": 156.0,
@@ -90601,7 +90601,7 @@
         },
         {
             "level_0": "2020",
-            "k": "de-benfica-00028",
+            "k": "benfica-00028",
             "nec": 28,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DE BENFICA",
             "t_scheduled": 195.0,
@@ -91817,7 +91817,7 @@
         },
         {
             "level_0": "2020",
-            "k": "de-alges-00149",
+            "k": "alges-00149",
             "nec": 149,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DE ALG\u00c9S",
             "t_scheduled": 167.0,
@@ -92185,7 +92185,7 @@
         },
         {
             "level_0": "2020",
-            "k": "de-santarem-00201",
+            "k": "santarem-00201",
             "nec": 201,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DE SANTAR\u00c9M",
             "t_scheduled": 165.0,
@@ -92249,7 +92249,7 @@
         },
         {
             "level_0": "2020",
-            "k": "de-queluz-00210",
+            "k": "queluz-00210",
             "nec": 210,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DE QUELUZ",
             "t_scheduled": 299.0,
@@ -92425,7 +92425,7 @@
         },
         {
             "level_0": "2020",
-            "k": "da-amadora-00237",
+            "k": "amadora-00237",
             "nec": 237,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DA AMADORA",
             "t_scheduled": 243.0,
@@ -92441,7 +92441,7 @@
         },
         {
             "level_0": "2020",
-            "k": "de-alvaiazere-00239",
+            "k": "alvaiazere-00239",
             "nec": 239,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DE ALVAI\u00c1ZERE",
             "t_scheduled": 106.0,
@@ -92473,7 +92473,7 @@
         },
         {
             "level_0": "2020",
-            "k": "da-mealhada-00243",
+            "k": "mealhada-00243",
             "nec": 243,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DA MEALHADA",
             "t_scheduled": 175.0,
@@ -92761,7 +92761,7 @@
         },
         {
             "level_0": "2020",
-            "k": "de-sousel-00296",
+            "k": "sousel-00296",
             "nec": 296,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DE SOUSEL",
             "t_scheduled": 36.0,
@@ -92809,7 +92809,7 @@
         },
         {
             "level_0": "2020",
-            "k": "de-redondo-00301",
+            "k": "redondo-00301",
             "nec": 301,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DE REDONDO",
             "t_scheduled": 61.0,
@@ -93209,7 +93209,7 @@
         },
         {
             "level_0": "2020",
-            "k": "da-figueirinha-fhr-00342",
+            "k": "figueirinha-fhr-00342",
             "nec": 342,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DA FIGUEIRINHA FHR",
             "t_scheduled": 184.0,
@@ -93417,7 +93417,7 @@
         },
         {
             "level_0": "2020",
-            "k": "de-nelas-00367",
+            "k": "nelas-00367",
             "nec": 367,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DE NELAS",
             "t_scheduled": 148.0,
@@ -93705,7 +93705,7 @@
         },
         {
             "level_0": "2020",
-            "k": "da-penha-00388",
+            "k": "penha-00388",
             "nec": 388,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DA PENHA",
             "t_scheduled": 314.0,
@@ -94153,7 +94153,7 @@
         },
         {
             "level_0": "2020",
-            "k": "da-maia-00420",
+            "k": "maia-00420",
             "nec": 420,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DA MAIA",
             "t_scheduled": 406.0,
@@ -94441,7 +94441,7 @@
         },
         {
             "level_0": "2020",
-            "k": "de-pombal-00441",
+            "k": "pombal-00441",
             "nec": 441,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DE POMBAL",
             "t_scheduled": 146.0,
@@ -94921,7 +94921,7 @@
         },
         {
             "level_0": "2020",
-            "k": "de-baiao-00474",
+            "k": "baiao-00474",
             "nec": 474,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DE BAI\u00c3O",
             "t_scheduled": 151.0,
@@ -94985,7 +94985,7 @@
         },
         {
             "level_0": "2020",
-            "k": "de-palmela-00478",
+            "k": "palmela-00478",
             "nec": 478,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DE PALMELA",
             "t_scheduled": 185.0,
@@ -95193,7 +95193,7 @@
         },
         {
             "level_0": "2020",
-            "k": "de-lindaavelha-00492",
+            "k": "lindaavelha-00492",
             "nec": 492,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DE LINDA-A-VELHA",
             "t_scheduled": 280.0,
@@ -95497,7 +95497,7 @@
         },
         {
             "level_0": "2020",
-            "k": "da-urbe-00513",
+            "k": "urbe-00513",
             "nec": 513,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DA URBE",
             "t_scheduled": 125.0,
@@ -95977,7 +95977,7 @@
         },
         {
             "level_0": "2020",
-            "k": "da-lourinha-00543",
+            "k": "lourinha-00543",
             "nec": 543,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DA LOURINH\u00c3",
             "t_scheduled": 185.0,
@@ -96297,7 +96297,7 @@
         },
         {
             "level_0": "2020",
-            "k": "de-tarouca-00565",
+            "k": "tarouca-00565",
             "nec": 565,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DE TAROUCA",
             "t_scheduled": 157.0,
@@ -97945,7 +97945,7 @@
         },
         {
             "level_0": "2020",
-            "k": "da-maceira-00694",
+            "k": "maceira-00694",
             "nec": 694,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DA MACEIRA",
             "t_scheduled": 164.0,
@@ -98009,7 +98009,7 @@
         },
         {
             "level_0": "2020",
-            "k": "da-longra-00698",
+            "k": "longra-00698",
             "nec": 698,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DA LONGRA",
             "t_scheduled": 208.0,
@@ -98249,7 +98249,7 @@
         },
         {
             "level_0": "2020",
-            "k": "da-tocha-00714",
+            "k": "tocha-00714",
             "nec": 714,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DA TOCHA",
             "t_scheduled": 52.0,
@@ -98409,7 +98409,7 @@
         },
         {
             "level_0": "2020",
-            "k": "de-cernache-do-bonjardim-00725",
+            "k": "cernache-do-bonjardim-00725",
             "nec": 725,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DE CERNACHE DO BONJARDIM",
             "t_scheduled": 122.0,
@@ -98665,7 +98665,7 @@
         },
         {
             "level_0": "2020",
-            "k": "de-lobao-00744",
+            "k": "lobao-00744",
             "nec": 744,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DE LOB\u00c3O",
             "t_scheduled": 72.0,
@@ -99001,7 +99001,7 @@
         },
         {
             "level_0": "2020",
-            "k": "de-alfragide-00770",
+            "k": "alfragide-00770",
             "nec": 770,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DE ALFRAGIDE",
             "t_scheduled": 191.0,
@@ -99161,7 +99161,7 @@
         },
         {
             "level_0": "2020",
-            "k": "da-guia-00782",
+            "k": "guia-00782",
             "nec": 782,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DA GUIA",
             "t_scheduled": 131.0,
@@ -99817,7 +99817,7 @@
         },
         {
             "level_0": "2020",
-            "k": "da-vila-de-adoscunhados-00828",
+            "k": "vila-de-adoscunhados-00828",
             "nec": 828,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DA VILA DE A-DOS-CUNHADOS",
             "t_scheduled": 106.0,
@@ -99993,7 +99993,7 @@
         },
         {
             "level_0": "2020",
-            "k": "de-avintes-00840",
+            "k": "avintes-00840",
             "nec": 840,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DE AVINTES",
             "t_scheduled": 130.0,
@@ -100281,7 +100281,7 @@
         },
         {
             "level_0": "2020",
-            "k": "da-quinta-da-piedade-00861",
+            "k": "quinta-da-piedade-00861",
             "nec": 861,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DA QUINTA DA PIEDADE",
             "t_scheduled": 269.0,
@@ -102249,7 +102249,7 @@
         },
         {
             "level_0": "2020",
-            "k": "de-tires-01020",
+            "k": "tires-01020",
             "nec": 1020,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DE TIRES",
             "t_scheduled": 201.0,
@@ -102505,7 +102505,7 @@
         },
         {
             "level_0": "2020",
-            "k": "de-teixoso-01036",
+            "k": "teixoso-01036",
             "nec": 1036,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DE TEIXOSO",
             "t_scheduled": 67.0,
@@ -103033,7 +103033,7 @@
         },
         {
             "level_0": "2020",
-            "k": "de-repeses-01075",
+            "k": "repeses-01075",
             "nec": 1075,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DE REPESES",
             "t_scheduled": 7.0,
@@ -103353,7 +103353,7 @@
         },
         {
             "level_0": "2020",
-            "k": "de-canidelo-01098",
+            "k": "canidelo-01098",
             "nec": 1098,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DE CANIDELO",
             "t_scheduled": 109.0,
@@ -104345,7 +104345,7 @@
         },
         {
             "level_0": "2020",
-            "k": "de-livracao-01167",
+            "k": "livracao-01167",
             "nec": 1167,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DE LIVRA\u00c7\u00c3O",
             "t_scheduled": 42.0,
@@ -106041,7 +106041,7 @@
         },
         {
             "level_0": "2020",
-            "k": "da-charneca-01285",
+            "k": "charneca-01285",
             "nec": 1285,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DA CHARNECA",
             "t_scheduled": 733.0,
@@ -106425,7 +106425,7 @@
         },
         {
             "level_0": "2020",
-            "k": "de-barrosas-01316",
+            "k": "barrosas-01316",
             "nec": 1316,
             "name_raw": "ESCOLA DE CONDU\u00c7\u00c3O DE BARROSAS",
             "t_scheduled": 66.0,
@@ -106889,7 +106889,7 @@
         },
         {
             "level_0": "2020",
-            "k": "de-bustos-01348",
+            "k": "bustos-01348",
             "nec": 1348,
             "name_raw": "Escola de Condu\u00e7\u00e3o de Bustos",
             "t_scheduled": 158.0,
@@ -106953,7 +106953,7 @@
         },
         {
             "level_0": "2020",
-            "k": "de-ramalde-01352",
+            "k": "ramalde-01352",
             "nec": 1352,
             "name_raw": "Escola de Condu\u00e7\u00e3o de Ramalde",
             "t_scheduled": 75.0,
@@ -107113,7 +107113,7 @@
         },
         {
             "level_0": "2020",
-            "k": "de-ilhavo-01362",
+            "k": "ilhavo-01362",
             "nec": 1362,
             "name_raw": "Escola de Condu\u00e7\u00e3o de \u00cdlhavo",
             "t_scheduled": 116.0,
@@ -107161,7 +107161,7 @@
         },
         {
             "level_0": "2020",
-            "k": "da-costa-01365",
+            "k": "costa-01365",
             "nec": 1365,
             "name_raw": "Escola de Condu\u00e7\u00e3o da Costa",
             "t_scheduled": 186.0,
