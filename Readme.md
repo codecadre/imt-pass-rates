@@ -65,7 +65,6 @@ Check [`parse.ipynb`](parse.ipynb).
 
 ## Licence
 
-TODO
+Code is MIT license - basically you can do what you want with the code, just give me credit for it. 
 
-GPL2 maybe
-MIT Maybe
+The data being reproduced here is assumed to be in the public domain. Aditionally, when I stated the purpose in the [FOI I filled with IMT](https://www.flaviosousa.co/pedido-accesso-dados-publicos/), no objection was on the grounds of it being made public. 
