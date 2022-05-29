@@ -75,4 +75,4 @@ Acording to the [Open Data Directive](https://digital-strategy.ec.europa.eu/en/p
 
 [From wikipedia](https://en.wikipedia.org/wiki/Directive_on_the_re-use_of_public_sector_information#Open_data_licensing)
 
-Here, "encouraging" is the key word. Given that no explicit consent or license was given, in principle there's always a chance that this project is using data beyond the scope of it's intended use. We hope to show that initiatives like this bring about positive changes and that they further encourage government bodies to release data with explicit Open [Data licenses](https://en.wikipedia.org/wiki/Directive_on_the_re-use_of_public_sector_information#Open_data_licensing)
+Here, "encouraging" is the key word. Given that no explicit consent or license was given, in principle there's always a chance that this project is using data beyond the scope of it's intended use. We hope to show that initiatives like this bring about positive changes and that they further encourage government bodies to release data with explicit [Open Data licenses](https://en.wikipedia.org/wiki/Directive_on_the_re-use_of_public_sector_information#Open_data_licensing)
