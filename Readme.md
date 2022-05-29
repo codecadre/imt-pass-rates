@@ -63,7 +63,7 @@ The entire data set can be found in
 
 Check [`parse.ipynb`](parse.ipynb).
 
-## Licence
+## Licence (code and open data)
 
 Code is MIT license - basically you can do what you want with the code, just give me credit for it. 
 
