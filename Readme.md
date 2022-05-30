@@ -63,9 +63,16 @@ The entire data set can be found in
 
 Check [`parse.ipynb`](parse.ipynb).
 
-## Licence
+## Licence (code and open data)
 
-TODO
+Code is MIT license - basically you can do what you want with the code, just give this project credit for it. 
 
-GPL2 maybe
-MIT Maybe
+The data being reproduced here is assumed to be in the public domain. Aditionally, when I stated the purpose in the [FOI I filled with IMT](https://www.flaviosousa.co/pedido-accesso-dados-publicos/), no objection was made on the grounds of it being made public.
+
+Acording to the [Open Data Directive](https://digital-strategy.ec.europa.eu/en/policies/open-data), countries are encouraged to make public data accessible, regardless of the end use:
+
+> clearly obliged member states to ‘encourage public sector bodies and public undertakings to produce and make available documents [...] in accordance with the principle of “open by design and by default’’. 
+
+[From wikipedia](https://en.wikipedia.org/wiki/Directive_on_the_re-use_of_public_sector_information#Open_data_licensing)
+
+Here, "encouraging" is the key word. Given that no explicit consent or license was given, in principle there's always a chance that this project is using data beyond the scope of it's intended use. We hope to show that initiatives like this bring about positive changes and that they further encourage government bodies to release data with explicit [Open Data licenses](https://en.wikipedia.org/wiki/Directive_on_the_re-use_of_public_sector_information#Open_data_licensing)
