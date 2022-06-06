@@ -6,10 +6,11 @@ This was originally done for [passaprimeira.xyz](https://www.passaprimeira.xyz).
 
 ## Background
 
-[passaprimeira.xyz](https://www.passaprimeira.xyz) is the second iteration of a project that aims at bringing transparency to the driving school business in Portugal, by crossing public data and presenting it in an accessible format. Originally it was only a web app, but we decided to release some of the data and code, in a usable way, so that others could benefit form it.
+[passaprimeira.xyz](https://www.passaprimeira.xyz) aims at bringing transparency to the driving school business in Portugal, by crossing public data and presenting it in an accessible format. Originally it was only a web app, but we decided to release some of the data and code, in a accessible format, so that others could benefit form it.
 
-TODO: reframe
-If you want to read more about how a freedom of information act might have helped release this data or not, check [my blog](https://www.flaviosousa.co/pedido-accesso-dados-publicos/) for some background story.
+Check [this blog post](https://www.flaviosousa.co/pedido-accesso-dados-publicos/) for more background on the difficulties of getting this data set release.
+
+
 
 ## Data origin
 
